@@ -1,0 +1,6536 @@
+
+----- Plate 1 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 1 finished. Number of required inputs: 0 
+--------
+Successes so far: 0
+Failures so far: 0
+Anomalies so far: 0
+
+----- Plate 2 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 2 finished. Number of required inputs: 0 
+--------
+Successes so far: 1
+Failures so far: 0
+Anomalies so far: 0
+
+----- Plate 3 -----
+Episode Done. Final State: end, Iterations: 4
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 3 finished. Number of required inputs: 0 
+--------
+Successes so far: 2
+Failures so far: 0
+Anomalies so far: 0
+
+----- Plate 4 -----
+Episode Done. Final State: end, Iterations: 5
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 4 finished. Number of required inputs: 1 
+--------
+Successes so far: 3
+Failures so far: 0
+Anomalies so far: 0
+
+----- Plate 5 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 5 finished. Number of required inputs: 3 
+--------
+Successes so far: 6
+Failures so far: 0
+Anomalies so far: 0
+
+----- Plate 6 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 6 finished. Number of required inputs: 7 
+--------
+Successes so far: 12
+Failures so far: 1
+Anomalies so far: 0
+
+----- Plate 7 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 7 finished. Number of required inputs: 6 
+--------
+Successes so far: 18
+Failures so far: 1
+Anomalies so far: 0
+
+----- Plate 8 -----
+Episode Done. Final State: end, Iterations: 14
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 8 finished. Number of required inputs: 5 
+--------
+Successes so far: 22
+Failures so far: 1
+Anomalies so far: 0
+
+----- Plate 9 -----
+Episode Done. Final State: end, Iterations: 15
+Successes: 4
+Failures: 1
+Anomalies: 0
+Remaining food items: 2
+
+Plate 9 finished. Number of required inputs: 4 
+--------
+Successes so far: 26
+Failures so far: 2
+Anomalies so far: 0
+
+----- Plate 10 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 10 finished. Number of required inputs: 0 
+--------
+Successes so far: 28
+Failures so far: 2
+Anomalies so far: 0
+
+----- Plate 11 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 11 finished. Number of required inputs: 1 
+--------
+Successes so far: 34
+Failures so far: 3
+Anomalies so far: 0
+
+----- Plate 12 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 12 finished. Number of required inputs: 0 
+--------
+Successes so far: 40
+Failures so far: 3
+Anomalies so far: 0
+
+----- Plate 13 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 13 finished. Number of required inputs: 0 
+--------
+Successes so far: 46
+Failures so far: 4
+Anomalies so far: 0
+
+----- Plate 14 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 14 finished. Number of required inputs: 0 
+--------
+Successes so far: 52
+Failures so far: 4
+Anomalies so far: 0
+
+----- Plate 15 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 15 finished. Number of required inputs: 0 
+--------
+Successes so far: 58
+Failures so far: 4
+Anomalies so far: 1
+
+----- Plate 16 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 16 finished. Number of required inputs: 0 
+--------
+Successes so far: 64
+Failures so far: 5
+Anomalies so far: 1
+
+----- Plate 17 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 17 finished. Number of required inputs: 0 
+--------
+Successes so far: 64
+Failures so far: 5
+Anomalies so far: 1
+
+----- Plate 18 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 0
+Anomalies: 3
+Remaining food items: 0
+
+Plate 18 finished. Number of required inputs: 0 
+--------
+Successes so far: 70
+Failures so far: 5
+Anomalies so far: 4
+
+----- Plate 19 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 19 finished. Number of required inputs: 0 
+--------
+Successes so far: 76
+Failures so far: 5
+Anomalies so far: 4
+
+----- Plate 20 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 20 finished. Number of required inputs: 0 
+--------
+Successes so far: 82
+Failures so far: 6
+Anomalies so far: 4
+
+----- Plate 21 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 21 finished. Number of required inputs: 0 
+--------
+Successes so far: 88
+Failures so far: 6
+Anomalies so far: 4
+
+----- Plate 22 -----
+Episode Done. Final State: end, Iterations: 14
+Successes: 3
+Failures: 1
+Anomalies: 0
+Remaining food items: 3
+
+Plate 22 finished. Number of required inputs: 0 
+--------
+Successes so far: 91
+Failures so far: 7
+Anomalies so far: 4
+
+----- Plate 23 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 23 finished. Number of required inputs: 1 
+--------
+Successes so far: 97
+Failures so far: 7
+Anomalies so far: 5
+
+----- Plate 24 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 5
+Failures: 1
+Anomalies: 0
+Remaining food items: 1
+
+Plate 24 finished. Number of required inputs: 0 
+--------
+Successes so far: 102
+Failures so far: 8
+Anomalies so far: 5
+
+----- Plate 25 -----
+Episode Done. Final State: end, Iterations: 17
+Successes: 5
+Failures: 0
+Anomalies: 0
+Remaining food items: 1
+
+Plate 25 finished. Number of required inputs: 0 
+--------
+Successes so far: 107
+Failures so far: 8
+Anomalies so far: 5
+
+----- Plate 26 -----
+Episode Done. Final State: end, Iterations: 15
+Successes: 4
+Failures: 0
+Anomalies: 1
+Remaining food items: 2
+
+Plate 26 finished. Number of required inputs: 0 
+--------
+Successes so far: 111
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 27 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 27 finished. Number of required inputs: 0 
+--------
+Successes so far: 117
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 28 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 28 finished. Number of required inputs: 0 
+--------
+Successes so far: 123
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 29 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 29 finished. Number of required inputs: 2 
+--------
+Successes so far: 129
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 30 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 30 finished. Number of required inputs: 0 
+--------
+Successes so far: 135
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 31 -----
+Episode Done. Final State: end, Iterations: 8
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 31 finished. Number of required inputs: 0 
+--------
+Successes so far: 137
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 32 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 32 finished. Number of required inputs: 0 
+--------
+Successes so far: 143
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 33 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 33 finished. Number of required inputs: 1 
+--------
+Successes so far: 149
+Failures so far: 8
+Anomalies so far: 6
+
+----- Plate 34 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 0
+Failures: 0
+Anomalies: 1
+Remaining food items: 6
+
+Plate 34 finished. Number of required inputs: 0 
+--------
+Successes so far: 149
+Failures so far: 8
+Anomalies so far: 7
+
+----- Plate 35 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 35 finished. Number of required inputs: 0 
+--------
+Successes so far: 155
+Failures so far: 8
+Anomalies so far: 8
+
+----- Plate 36 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 36 finished. Number of required inputs: 0 
+--------
+Successes so far: 161
+Failures so far: 8
+Anomalies so far: 8
+
+----- Plate 37 -----
+Episode Done. Final State: end, Iterations: 4
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 37 finished. Number of required inputs: 0 
+--------
+Successes so far: 162
+Failures so far: 8
+Anomalies so far: 8
+
+----- Plate 38 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 38 finished. Number of required inputs: 0 
+--------
+Successes so far: 168
+Failures so far: 8
+Anomalies so far: 8
+
+----- Plate 39 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 39 finished. Number of required inputs: 0 
+--------
+Successes so far: 174
+Failures so far: 8
+Anomalies so far: 8
+
+----- Plate 40 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 40 finished. Number of required inputs: 1 
+--------
+Successes so far: 180
+Failures so far: 8
+Anomalies so far: 8
+
+----- Plate 41 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 41 finished. Number of required inputs: 0 
+--------
+Successes so far: 186
+Failures so far: 8
+Anomalies so far: 8
+
+----- Plate 42 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 42 finished. Number of required inputs: 0 
+--------
+Successes so far: 192
+Failures so far: 9
+Anomalies so far: 9
+
+----- Plate 43 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 1
+Failures: 0
+Anomalies: 1
+Remaining food items: 5
+
+Plate 43 finished. Number of required inputs: 1 
+--------
+Successes so far: 193
+Failures so far: 9
+Anomalies so far: 10
+
+----- Plate 44 -----
+Episode Done. Final State: end, Iterations: 4
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 44 finished. Number of required inputs: 0 
+--------
+Successes so far: 194
+Failures so far: 9
+Anomalies so far: 10
+
+----- Plate 45 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 45 finished. Number of required inputs: 0 
+--------
+Successes so far: 195
+Failures so far: 9
+Anomalies so far: 10
+
+----- Plate 46 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 46 finished. Number of required inputs: 0 
+--------
+Successes so far: 201
+Failures so far: 9
+Anomalies so far: 10
+
+----- Plate 47 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 3
+Failures: 1
+Anomalies: 0
+Remaining food items: 3
+
+Plate 47 finished. Number of required inputs: 0 
+--------
+Successes so far: 204
+Failures so far: 10
+Anomalies so far: 10
+
+----- Plate 48 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 48 finished. Number of required inputs: 1 
+--------
+Successes so far: 207
+Failures so far: 10
+Anomalies so far: 10
+
+----- Plate 49 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 49 finished. Number of required inputs: 0 
+--------
+Successes so far: 213
+Failures so far: 11
+Anomalies so far: 10
+
+----- Plate 50 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 50 finished. Number of required inputs: 0 
+--------
+Successes so far: 219
+Failures so far: 12
+Anomalies so far: 10
+
+----- Plate 51 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 51 finished. Number of required inputs: 0 
+--------
+Successes so far: 225
+Failures so far: 12
+Anomalies so far: 11
+
+----- Plate 52 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 52 finished. Number of required inputs: 0 
+--------
+Successes so far: 231
+Failures so far: 13
+Anomalies so far: 12
+
+----- Plate 53 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 53 finished. Number of required inputs: 0 
+--------
+Successes so far: 237
+Failures so far: 13
+Anomalies so far: 12
+
+----- Plate 54 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 54 finished. Number of required inputs: 0 
+--------
+Successes so far: 243
+Failures so far: 13
+Anomalies so far: 13
+
+----- Plate 55 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 55 finished. Number of required inputs: 0 
+--------
+Successes so far: 249
+Failures so far: 13
+Anomalies so far: 13
+
+----- Plate 56 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 56 finished. Number of required inputs: 0 
+--------
+Successes so far: 255
+Failures so far: 13
+Anomalies so far: 13
+
+----- Plate 57 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 57 finished. Number of required inputs: 0 
+--------
+Successes so far: 261
+Failures so far: 13
+Anomalies so far: 14
+
+----- Plate 58 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 58 finished. Number of required inputs: 0 
+--------
+Successes so far: 267
+Failures so far: 15
+Anomalies so far: 14
+
+----- Plate 59 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 59 finished. Number of required inputs: 0 
+--------
+Successes so far: 273
+Failures so far: 16
+Anomalies so far: 14
+
+----- Plate 60 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 60 finished. Number of required inputs: 0 
+--------
+Successes so far: 279
+Failures so far: 16
+Anomalies so far: 14
+
+----- Plate 61 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 61 finished. Number of required inputs: 0 
+--------
+Successes so far: 285
+Failures so far: 16
+Anomalies so far: 15
+
+----- Plate 62 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 62 finished. Number of required inputs: 0 
+--------
+Successes so far: 291
+Failures so far: 16
+Anomalies so far: 15
+
+----- Plate 63 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 3
+Anomalies: 0
+Remaining food items: 0
+
+Plate 63 finished. Number of required inputs: 0 
+--------
+Successes so far: 297
+Failures so far: 19
+Anomalies so far: 15
+
+----- Plate 64 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 64 finished. Number of required inputs: 0 
+--------
+Successes so far: 299
+Failures so far: 19
+Anomalies so far: 15
+
+----- Plate 65 -----
+Episode Done. Final State: end, Iterations: 5
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 65 finished. Number of required inputs: 0 
+--------
+Successes so far: 300
+Failures so far: 19
+Anomalies so far: 15
+
+----- Plate 66 -----
+Episode Done. Final State: end, Iterations: 26
+Successes: 4
+Failures: 1
+Anomalies: 3
+Remaining food items: 2
+
+Plate 66 finished. Number of required inputs: 0 
+--------
+Successes so far: 304
+Failures so far: 20
+Anomalies so far: 18
+
+----- Plate 67 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 67 finished. Number of required inputs: 0 
+--------
+Successes so far: 310
+Failures so far: 20
+Anomalies so far: 18
+
+----- Plate 68 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 68 finished. Number of required inputs: 0 
+--------
+Successes so far: 316
+Failures so far: 20
+Anomalies so far: 19
+
+----- Plate 69 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 69 finished. Number of required inputs: 1 
+--------
+Successes so far: 322
+Failures so far: 20
+Anomalies so far: 19
+
+----- Plate 70 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 70 finished. Number of required inputs: 0 
+--------
+Successes so far: 328
+Failures so far: 20
+Anomalies so far: 19
+
+----- Plate 71 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 71 finished. Number of required inputs: 1 
+--------
+Successes so far: 333
+Failures so far: 20
+Anomalies so far: 20
+
+----- Plate 72 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 72 finished. Number of required inputs: 0 
+--------
+Successes so far: 339
+Failures so far: 20
+Anomalies so far: 20
+
+----- Plate 73 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 73 finished. Number of required inputs: 0 
+--------
+Successes so far: 345
+Failures so far: 20
+Anomalies so far: 20
+
+----- Plate 74 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 74 finished. Number of required inputs: 0 
+--------
+Successes so far: 351
+Failures so far: 21
+Anomalies so far: 20
+
+----- Plate 75 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 75 finished. Number of required inputs: 0 
+--------
+Successes so far: 357
+Failures so far: 21
+Anomalies so far: 20
+
+----- Plate 76 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 3
+Anomalies: 0
+Remaining food items: 0
+
+Plate 76 finished. Number of required inputs: 0 
+--------
+Successes so far: 363
+Failures so far: 24
+Anomalies so far: 20
+
+----- Plate 77 -----
+Episode Done. Final State: end, Iterations: 16
+Successes: 5
+Failures: 0
+Anomalies: 0
+Remaining food items: 1
+
+Plate 77 finished. Number of required inputs: 2 
+--------
+Successes so far: 368
+Failures so far: 24
+Anomalies so far: 20
+
+----- Plate 78 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 78 finished. Number of required inputs: 1 
+--------
+Successes so far: 374
+Failures so far: 24
+Anomalies so far: 20
+
+----- Plate 79 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 79 finished. Number of required inputs: 1 
+--------
+Successes so far: 380
+Failures so far: 24
+Anomalies so far: 21
+
+----- Plate 80 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 80 finished. Number of required inputs: 0 
+--------
+Successes so far: 386
+Failures so far: 24
+Anomalies so far: 21
+
+----- Plate 81 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 81 finished. Number of required inputs: 0 
+--------
+Successes so far: 392
+Failures so far: 24
+Anomalies so far: 23
+
+----- Plate 82 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 82 finished. Number of required inputs: 0 
+--------
+Successes so far: 398
+Failures so far: 24
+Anomalies so far: 23
+
+----- Plate 83 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 83 finished. Number of required inputs: 0 
+--------
+Successes so far: 404
+Failures so far: 24
+Anomalies so far: 23
+
+----- Plate 84 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 84 finished. Number of required inputs: 0 
+--------
+Successes so far: 410
+Failures so far: 24
+Anomalies so far: 24
+
+----- Plate 85 -----
+Episode Done. Final State: end, Iterations: 6
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 85 finished. Number of required inputs: 0 
+--------
+Successes so far: 412
+Failures so far: 24
+Anomalies so far: 24
+
+----- Plate 86 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 86 finished. Number of required inputs: 0 
+--------
+Successes so far: 418
+Failures so far: 24
+Anomalies so far: 24
+
+----- Plate 87 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 87 finished. Number of required inputs: 1 
+--------
+Successes so far: 424
+Failures so far: 24
+Anomalies so far: 24
+
+----- Plate 88 -----
+Episode Done. Final State: end, Iterations: 14
+Successes: 1
+Failures: 1
+Anomalies: 2
+Remaining food items: 5
+
+Plate 88 finished. Number of required inputs: 0 
+--------
+Successes so far: 425
+Failures so far: 25
+Anomalies so far: 26
+
+----- Plate 89 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 89 finished. Number of required inputs: 0 
+--------
+Successes so far: 431
+Failures so far: 25
+Anomalies so far: 26
+
+----- Plate 90 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 90 finished. Number of required inputs: 0 
+--------
+Successes so far: 435
+Failures so far: 25
+Anomalies so far: 26
+
+----- Plate 91 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 91 finished. Number of required inputs: 0 
+--------
+Successes so far: 437
+Failures so far: 25
+Anomalies so far: 26
+
+----- Plate 92 -----
+Episode Done. Final State: end, Iterations: 15
+Successes: 4
+Failures: 1
+Anomalies: 0
+Remaining food items: 2
+
+Plate 92 finished. Number of required inputs: 0 
+--------
+Successes so far: 441
+Failures so far: 26
+Anomalies so far: 26
+
+----- Plate 93 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 93 finished. Number of required inputs: 1 
+--------
+Successes so far: 447
+Failures so far: 26
+Anomalies so far: 26
+
+----- Plate 94 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 94 finished. Number of required inputs: 2 
+--------
+Successes so far: 453
+Failures so far: 27
+Anomalies so far: 26
+
+----- Plate 95 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 2
+Failures: 1
+Anomalies: 0
+Remaining food items: 4
+
+Plate 95 finished. Number of required inputs: 0 
+--------
+Successes so far: 455
+Failures so far: 28
+Anomalies so far: 26
+
+----- Plate 96 -----
+Episode Done. Final State: end, Iterations: 21
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 96 finished. Number of required inputs: 0 
+--------
+Successes so far: 461
+Failures so far: 28
+Anomalies so far: 27
+
+----- Plate 97 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 97 finished. Number of required inputs: 0 
+--------
+Successes so far: 467
+Failures so far: 28
+Anomalies so far: 27
+
+----- Plate 98 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 98 finished. Number of required inputs: 1 
+--------
+Successes so far: 473
+Failures so far: 28
+Anomalies so far: 27
+
+----- Plate 99 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 99 finished. Number of required inputs: 0 
+--------
+Successes so far: 479
+Failures so far: 28
+Anomalies so far: 27
+
+----- Plate 100 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 100 finished. Number of required inputs: 0 
+--------
+Successes so far: 485
+Failures so far: 28
+Anomalies so far: 27
+
+----- Plate 101 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 101 finished. Number of required inputs: 0 
+--------
+Successes so far: 491
+Failures so far: 29
+Anomalies so far: 27
+
+----- Plate 102 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 102 finished. Number of required inputs: 1 
+--------
+Successes so far: 497
+Failures so far: 30
+Anomalies so far: 27
+
+----- Plate 103 -----
+Episode Done. Final State: end, Iterations: 17
+Successes: 4
+Failures: 0
+Anomalies: 1
+Remaining food items: 2
+
+Plate 103 finished. Number of required inputs: 1 
+--------
+Successes so far: 501
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 104 -----
+Episode Done. Final State: end, Iterations: 15
+Successes: 5
+Failures: 0
+Anomalies: 0
+Remaining food items: 1
+
+Plate 104 finished. Number of required inputs: 0 
+--------
+Successes so far: 506
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 105 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 105 finished. Number of required inputs: 0 
+--------
+Successes so far: 512
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 106 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 106 finished. Number of required inputs: 0 
+--------
+Successes so far: 518
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 107 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 107 finished. Number of required inputs: 0 
+--------
+Successes so far: 524
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 108 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 108 finished. Number of required inputs: 0 
+--------
+Successes so far: 527
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 109 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 109 finished. Number of required inputs: 1 
+--------
+Successes so far: 533
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 110 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 110 finished. Number of required inputs: 0 
+--------
+Successes so far: 539
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 111 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 111 finished. Number of required inputs: 0 
+--------
+Successes so far: 545
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 112 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 112 finished. Number of required inputs: 0 
+--------
+Successes so far: 545
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 113 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 113 finished. Number of required inputs: 0 
+--------
+Successes so far: 551
+Failures so far: 30
+Anomalies so far: 28
+
+----- Plate 114 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 114 finished. Number of required inputs: 0 
+--------
+Successes so far: 557
+Failures so far: 30
+Anomalies so far: 29
+
+----- Plate 115 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 115 finished. Number of required inputs: 1 
+--------
+Successes so far: 562
+Failures so far: 30
+Anomalies so far: 30
+
+----- Plate 116 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 116 finished. Number of required inputs: 0 
+--------
+Successes so far: 568
+Failures so far: 30
+Anomalies so far: 30
+
+----- Plate 117 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 117 finished. Number of required inputs: 0 
+--------
+Successes so far: 574
+Failures so far: 32
+Anomalies so far: 30
+
+----- Plate 118 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 118 finished. Number of required inputs: 0 
+--------
+Successes so far: 580
+Failures so far: 32
+Anomalies so far: 30
+
+----- Plate 119 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 119 finished. Number of required inputs: 0 
+--------
+Successes so far: 586
+Failures so far: 33
+Anomalies so far: 30
+
+----- Plate 120 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 120 finished. Number of required inputs: 0 
+--------
+Successes so far: 592
+Failures so far: 33
+Anomalies so far: 30
+
+----- Plate 121 -----
+Episode Done. Final State: end, Iterations: 16
+Successes: 4
+Failures: 1
+Anomalies: 0
+Remaining food items: 2
+
+Plate 121 finished. Number of required inputs: 3 
+--------
+Successes so far: 596
+Failures so far: 34
+Anomalies so far: 30
+
+----- Plate 122 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 122 finished. Number of required inputs: 0 
+--------
+Successes so far: 602
+Failures so far: 34
+Anomalies so far: 30
+
+----- Plate 123 -----
+Episode Done. Final State: end, Iterations: 4
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 123 finished. Number of required inputs: 0 
+--------
+Successes so far: 603
+Failures so far: 34
+Anomalies so far: 30
+
+----- Plate 124 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 1
+Anomalies: 2
+Remaining food items: 0
+
+Plate 124 finished. Number of required inputs: 0 
+--------
+Successes so far: 609
+Failures so far: 35
+Anomalies so far: 32
+
+----- Plate 125 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 125 finished. Number of required inputs: 0 
+--------
+Successes so far: 615
+Failures so far: 35
+Anomalies so far: 33
+
+----- Plate 126 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 3
+Failures: 0
+Anomalies: 1
+Remaining food items: 3
+
+Plate 126 finished. Number of required inputs: 2 
+--------
+Successes so far: 618
+Failures so far: 35
+Anomalies so far: 34
+
+----- Plate 127 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 127 finished. Number of required inputs: 0 
+--------
+Successes so far: 624
+Failures so far: 35
+Anomalies so far: 34
+
+----- Plate 128 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 128 finished. Number of required inputs: 1 
+--------
+Successes so far: 630
+Failures so far: 35
+Anomalies so far: 34
+
+----- Plate 129 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 129 finished. Number of required inputs: 0 
+--------
+Successes so far: 636
+Failures so far: 36
+Anomalies so far: 34
+
+----- Plate 130 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 1
+Anomalies: 2
+Remaining food items: 0
+
+Plate 130 finished. Number of required inputs: 0 
+--------
+Successes so far: 642
+Failures so far: 37
+Anomalies so far: 36
+
+----- Plate 131 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 131 finished. Number of required inputs: 0 
+--------
+Successes so far: 648
+Failures so far: 37
+Anomalies so far: 36
+
+----- Plate 132 -----
+Episode Done. Final State: end, Iterations: 13
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 132 finished. Number of required inputs: 0 
+--------
+Successes so far: 652
+Failures so far: 37
+Anomalies so far: 36
+
+----- Plate 133 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 133 finished. Number of required inputs: 0 
+--------
+Successes so far: 658
+Failures so far: 37
+Anomalies so far: 36
+
+----- Plate 134 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 134 finished. Number of required inputs: 0 
+--------
+Successes so far: 664
+Failures so far: 38
+Anomalies so far: 36
+
+----- Plate 135 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 135 finished. Number of required inputs: 0 
+--------
+Successes so far: 670
+Failures so far: 38
+Anomalies so far: 36
+
+----- Plate 136 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 136 finished. Number of required inputs: 1 
+--------
+Successes so far: 676
+Failures so far: 39
+Anomalies so far: 37
+
+----- Plate 137 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 137 finished. Number of required inputs: 0 
+--------
+Successes so far: 682
+Failures so far: 39
+Anomalies so far: 37
+
+----- Plate 138 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 138 finished. Number of required inputs: 0 
+--------
+Successes so far: 684
+Failures so far: 39
+Anomalies so far: 37
+
+----- Plate 139 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 139 finished. Number of required inputs: 0 
+--------
+Successes so far: 690
+Failures so far: 39
+Anomalies so far: 37
+
+----- Plate 140 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 140 finished. Number of required inputs: 1 
+--------
+Successes so far: 696
+Failures so far: 39
+Anomalies so far: 37
+
+----- Plate 141 -----
+Episode Done. Final State: end, Iterations: 4
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 141 finished. Number of required inputs: 0 
+--------
+Successes so far: 697
+Failures so far: 39
+Anomalies so far: 37
+
+----- Plate 142 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 142 finished. Number of required inputs: 0 
+--------
+Successes so far: 703
+Failures so far: 39
+Anomalies so far: 37
+
+----- Plate 143 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 143 finished. Number of required inputs: 0 
+--------
+Successes so far: 709
+Failures so far: 40
+Anomalies so far: 37
+
+----- Plate 144 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 144 finished. Number of required inputs: 0 
+--------
+Successes so far: 715
+Failures so far: 40
+Anomalies so far: 38
+
+----- Plate 145 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 145 finished. Number of required inputs: 0 
+--------
+Successes so far: 721
+Failures so far: 41
+Anomalies so far: 39
+
+----- Plate 146 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 146 finished. Number of required inputs: 0 
+--------
+Successes so far: 727
+Failures so far: 41
+Anomalies so far: 40
+
+----- Plate 147 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 147 finished. Number of required inputs: 1 
+--------
+Successes so far: 733
+Failures so far: 41
+Anomalies so far: 40
+
+----- Plate 148 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 148 finished. Number of required inputs: 0 
+--------
+Successes so far: 739
+Failures so far: 41
+Anomalies so far: 40
+
+----- Plate 149 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 149 finished. Number of required inputs: 1 
+--------
+Successes so far: 745
+Failures so far: 41
+Anomalies so far: 42
+
+----- Plate 150 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 150 finished. Number of required inputs: 0 
+--------
+Successes so far: 751
+Failures so far: 42
+Anomalies so far: 42
+
+----- Plate 151 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 151 finished. Number of required inputs: 0 
+--------
+Successes so far: 757
+Failures so far: 42
+Anomalies so far: 42
+
+----- Plate 152 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 152 finished. Number of required inputs: 2 
+--------
+Successes so far: 763
+Failures so far: 42
+Anomalies so far: 44
+
+----- Plate 153 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 153 finished. Number of required inputs: 1 
+--------
+Successes so far: 769
+Failures so far: 43
+Anomalies so far: 44
+
+----- Plate 154 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 154 finished. Number of required inputs: 0 
+--------
+Successes so far: 775
+Failures so far: 43
+Anomalies so far: 44
+
+----- Plate 155 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 155 finished. Number of required inputs: 0 
+--------
+Successes so far: 781
+Failures so far: 43
+Anomalies so far: 44
+
+----- Plate 156 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 156 finished. Number of required inputs: 1 
+--------
+Successes so far: 787
+Failures so far: 44
+Anomalies so far: 45
+
+----- Plate 157 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 2
+Anomalies: 1
+Remaining food items: 0
+
+Plate 157 finished. Number of required inputs: 2 
+--------
+Successes so far: 793
+Failures so far: 46
+Anomalies so far: 46
+
+----- Plate 158 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 1
+Anomalies: 2
+Remaining food items: 0
+
+Plate 158 finished. Number of required inputs: 1 
+--------
+Successes so far: 799
+Failures so far: 47
+Anomalies so far: 48
+
+----- Plate 159 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 159 finished. Number of required inputs: 3 
+--------
+Successes so far: 805
+Failures so far: 48
+Anomalies so far: 48
+
+----- Plate 160 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 160 finished. Number of required inputs: 0 
+--------
+Successes so far: 811
+Failures so far: 48
+Anomalies so far: 48
+
+----- Plate 161 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 161 finished. Number of required inputs: 0 
+--------
+Successes so far: 817
+Failures so far: 48
+Anomalies so far: 48
+
+----- Plate 162 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 162 finished. Number of required inputs: 3 
+--------
+Successes so far: 823
+Failures so far: 48
+Anomalies so far: 49
+
+----- Plate 163 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 163 finished. Number of required inputs: 0 
+--------
+Successes so far: 829
+Failures so far: 48
+Anomalies so far: 50
+
+----- Plate 164 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 164 finished. Number of required inputs: 0 
+--------
+Successes so far: 832
+Failures so far: 48
+Anomalies so far: 50
+
+----- Plate 165 -----
+Episode Done. Final State: end, Iterations: 8
+Successes: 1
+Failures: 0
+Anomalies: 1
+Remaining food items: 5
+
+Plate 165 finished. Number of required inputs: 0 
+--------
+Successes so far: 833
+Failures so far: 48
+Anomalies so far: 51
+
+----- Plate 166 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 166 finished. Number of required inputs: 0 
+--------
+Successes so far: 837
+Failures so far: 48
+Anomalies so far: 51
+
+----- Plate 167 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 167 finished. Number of required inputs: 1 
+--------
+Successes so far: 843
+Failures so far: 49
+Anomalies so far: 51
+
+----- Plate 168 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 168 finished. Number of required inputs: 1 
+--------
+Successes so far: 849
+Failures so far: 49
+Anomalies so far: 51
+
+----- Plate 169 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 169 finished. Number of required inputs: 0 
+--------
+Successes so far: 855
+Failures so far: 49
+Anomalies so far: 52
+
+----- Plate 170 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 170 finished. Number of required inputs: 0 
+--------
+Successes so far: 861
+Failures so far: 50
+Anomalies so far: 52
+
+----- Plate 171 -----
+Episode Done. Final State: end, Iterations: 13
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 171 finished. Number of required inputs: 0 
+--------
+Successes so far: 865
+Failures so far: 50
+Anomalies so far: 52
+
+----- Plate 172 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 2
+Failures: 0
+Anomalies: 1
+Remaining food items: 4
+
+Plate 172 finished. Number of required inputs: 0 
+--------
+Successes so far: 867
+Failures so far: 50
+Anomalies so far: 53
+
+----- Plate 173 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 173 finished. Number of required inputs: 0 
+--------
+Successes so far: 873
+Failures so far: 52
+Anomalies so far: 53
+
+----- Plate 174 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 174 finished. Number of required inputs: 0 
+--------
+Successes so far: 879
+Failures so far: 52
+Anomalies so far: 53
+
+----- Plate 175 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 175 finished. Number of required inputs: 0 
+--------
+Successes so far: 885
+Failures so far: 52
+Anomalies so far: 54
+
+----- Plate 176 -----
+Episode Done. Final State: end, Iterations: 11
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 176 finished. Number of required inputs: 0 
+--------
+Successes so far: 888
+Failures so far: 52
+Anomalies so far: 54
+
+----- Plate 177 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 177 finished. Number of required inputs: 0 
+--------
+Successes so far: 894
+Failures so far: 53
+Anomalies so far: 54
+
+----- Plate 178 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 178 finished. Number of required inputs: 1 
+--------
+Successes so far: 900
+Failures so far: 54
+Anomalies so far: 54
+
+----- Plate 179 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 179 finished. Number of required inputs: 1 
+--------
+Successes so far: 906
+Failures so far: 54
+Anomalies so far: 54
+
+----- Plate 180 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 180 finished. Number of required inputs: 0 
+--------
+Successes so far: 912
+Failures so far: 54
+Anomalies so far: 54
+
+----- Plate 181 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 181 finished. Number of required inputs: 0 
+--------
+Successes so far: 918
+Failures so far: 54
+Anomalies so far: 56
+
+----- Plate 182 -----
+Episode Done. Final State: end, Iterations: 13
+Successes: 3
+Failures: 1
+Anomalies: 0
+Remaining food items: 3
+
+Plate 182 finished. Number of required inputs: 0 
+--------
+Successes so far: 921
+Failures so far: 55
+Anomalies so far: 56
+
+----- Plate 183 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 183 finished. Number of required inputs: 2 
+--------
+Successes so far: 927
+Failures so far: 55
+Anomalies so far: 56
+
+----- Plate 184 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 184 finished. Number of required inputs: 2 
+--------
+Successes so far: 933
+Failures so far: 55
+Anomalies so far: 56
+
+----- Plate 185 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 185 finished. Number of required inputs: 0 
+--------
+Successes so far: 939
+Failures so far: 56
+Anomalies so far: 57
+
+----- Plate 186 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 186 finished. Number of required inputs: 0 
+--------
+Successes so far: 943
+Failures so far: 56
+Anomalies so far: 57
+
+----- Plate 187 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 187 finished. Number of required inputs: 1 
+--------
+Successes so far: 949
+Failures so far: 56
+Anomalies so far: 57
+
+----- Plate 188 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 188 finished. Number of required inputs: 1 
+--------
+Successes so far: 955
+Failures so far: 56
+Anomalies so far: 57
+
+----- Plate 189 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 189 finished. Number of required inputs: 0 
+--------
+Successes so far: 957
+Failures so far: 56
+Anomalies so far: 57
+
+----- Plate 190 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 190 finished. Number of required inputs: 1 
+--------
+Successes so far: 963
+Failures so far: 56
+Anomalies so far: 57
+
+----- Plate 191 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 191 finished. Number of required inputs: 0 
+--------
+Successes so far: 963
+Failures so far: 56
+Anomalies so far: 57
+
+----- Plate 192 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 192 finished. Number of required inputs: 0 
+--------
+Successes so far: 968
+Failures so far: 56
+Anomalies so far: 58
+
+----- Plate 193 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 2
+Failures: 0
+Anomalies: 1
+Remaining food items: 4
+
+Plate 193 finished. Number of required inputs: 0 
+--------
+Successes so far: 970
+Failures so far: 56
+Anomalies so far: 59
+
+----- Plate 194 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 194 finished. Number of required inputs: 0 
+--------
+Successes so far: 976
+Failures so far: 57
+Anomalies so far: 59
+
+----- Plate 195 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 195 finished. Number of required inputs: 0 
+--------
+Successes so far: 982
+Failures so far: 57
+Anomalies so far: 59
+
+----- Plate 196 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 196 finished. Number of required inputs: 1 
+--------
+Successes so far: 988
+Failures so far: 59
+Anomalies so far: 59
+
+----- Plate 197 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 197 finished. Number of required inputs: 0 
+--------
+Successes so far: 994
+Failures so far: 59
+Anomalies so far: 59
+
+----- Plate 198 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 198 finished. Number of required inputs: 0 
+--------
+Successes so far: 997
+Failures so far: 59
+Anomalies so far: 59
+
+----- Plate 199 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 199 finished. Number of required inputs: 0 
+--------
+Successes so far: 1003
+Failures so far: 59
+Anomalies so far: 59
+
+----- Plate 200 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 200 finished. Number of required inputs: 0 
+--------
+Successes so far: 1006
+Failures so far: 59
+Anomalies so far: 59
+
+----- Plate 201 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 201 finished. Number of required inputs: 0 
+--------
+Successes so far: 1006
+Failures so far: 59
+Anomalies so far: 59
+
+----- Plate 202 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 202 finished. Number of required inputs: 0 
+--------
+Successes so far: 1012
+Failures so far: 59
+Anomalies so far: 60
+
+----- Plate 203 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 203 finished. Number of required inputs: 0 
+--------
+Successes so far: 1018
+Failures so far: 60
+Anomalies so far: 60
+
+----- Plate 204 -----
+Episode Done. Final State: end, Iterations: 20
+Successes: 5
+Failures: 1
+Anomalies: 0
+Remaining food items: 1
+
+Plate 204 finished. Number of required inputs: 1 
+--------
+Successes so far: 1023
+Failures so far: 61
+Anomalies so far: 60
+
+----- Plate 205 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 205 finished. Number of required inputs: 1 
+--------
+Successes so far: 1029
+Failures so far: 61
+Anomalies so far: 60
+
+----- Plate 206 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 206 finished. Number of required inputs: 0 
+--------
+Successes so far: 1035
+Failures so far: 62
+Anomalies so far: 60
+
+----- Plate 207 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 207 finished. Number of required inputs: 1 
+--------
+Successes so far: 1041
+Failures so far: 62
+Anomalies so far: 61
+
+----- Plate 208 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 208 finished. Number of required inputs: 0 
+--------
+Successes so far: 1047
+Failures so far: 62
+Anomalies so far: 62
+
+----- Plate 209 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 209 finished. Number of required inputs: 0 
+--------
+Successes so far: 1053
+Failures so far: 62
+Anomalies so far: 63
+
+----- Plate 210 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 210 finished. Number of required inputs: 0 
+--------
+Successes so far: 1059
+Failures so far: 62
+Anomalies so far: 63
+
+----- Plate 211 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 211 finished. Number of required inputs: 1 
+--------
+Successes so far: 1065
+Failures so far: 62
+Anomalies so far: 63
+
+----- Plate 212 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 2
+Anomalies: 1
+Remaining food items: 0
+
+Plate 212 finished. Number of required inputs: 0 
+--------
+Successes so far: 1071
+Failures so far: 64
+Anomalies so far: 64
+
+----- Plate 213 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 213 finished. Number of required inputs: 0 
+--------
+Successes so far: 1077
+Failures so far: 64
+Anomalies so far: 64
+
+----- Plate 214 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 214 finished. Number of required inputs: 0 
+--------
+Successes so far: 1083
+Failures so far: 64
+Anomalies so far: 64
+
+----- Plate 215 -----
+Episode Done. Final State: end, Iterations: 14
+Successes: 3
+Failures: 1
+Anomalies: 0
+Remaining food items: 3
+
+Plate 215 finished. Number of required inputs: 0 
+--------
+Successes so far: 1086
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 216 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 216 finished. Number of required inputs: 0 
+--------
+Successes so far: 1092
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 217 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 217 finished. Number of required inputs: 0 
+--------
+Successes so far: 1098
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 218 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 218 finished. Number of required inputs: 0 
+--------
+Successes so far: 1104
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 219 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 219 finished. Number of required inputs: 0 
+--------
+Successes so far: 1104
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 220 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 220 finished. Number of required inputs: 0 
+--------
+Successes so far: 1110
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 221 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 221 finished. Number of required inputs: 0 
+--------
+Successes so far: 1116
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 222 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 222 finished. Number of required inputs: 0 
+--------
+Successes so far: 1122
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 223 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 223 finished. Number of required inputs: 0 
+--------
+Successes so far: 1122
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 224 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 224 finished. Number of required inputs: 0 
+--------
+Successes so far: 1125
+Failures so far: 65
+Anomalies so far: 64
+
+----- Plate 225 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 225 finished. Number of required inputs: 0 
+--------
+Successes so far: 1131
+Failures so far: 65
+Anomalies so far: 65
+
+----- Plate 226 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 226 finished. Number of required inputs: 0 
+--------
+Successes so far: 1137
+Failures so far: 65
+Anomalies so far: 65
+
+----- Plate 227 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 227 finished. Number of required inputs: 1 
+--------
+Successes so far: 1143
+Failures so far: 66
+Anomalies so far: 65
+
+----- Plate 228 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 228 finished. Number of required inputs: 0 
+--------
+Successes so far: 1149
+Failures so far: 66
+Anomalies so far: 65
+
+----- Plate 229 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 229 finished. Number of required inputs: 0 
+--------
+Successes so far: 1155
+Failures so far: 66
+Anomalies so far: 66
+
+----- Plate 230 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 230 finished. Number of required inputs: 0 
+--------
+Successes so far: 1161
+Failures so far: 66
+Anomalies so far: 66
+
+----- Plate 231 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 231 finished. Number of required inputs: 0 
+--------
+Successes so far: 1167
+Failures so far: 67
+Anomalies so far: 66
+
+----- Plate 232 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 232 finished. Number of required inputs: 1 
+--------
+Successes so far: 1173
+Failures so far: 67
+Anomalies so far: 66
+
+----- Plate 233 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 233 finished. Number of required inputs: 1 
+--------
+Successes so far: 1179
+Failures so far: 67
+Anomalies so far: 66
+
+----- Plate 234 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 234 finished. Number of required inputs: 0 
+--------
+Successes so far: 1183
+Failures so far: 67
+Anomalies so far: 66
+
+----- Plate 235 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 235 finished. Number of required inputs: 0 
+--------
+Successes so far: 1189
+Failures so far: 67
+Anomalies so far: 66
+
+----- Plate 236 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 236 finished. Number of required inputs: 0 
+--------
+Successes so far: 1195
+Failures so far: 67
+Anomalies so far: 66
+
+----- Plate 237 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 237 finished. Number of required inputs: 2 
+--------
+Successes so far: 1201
+Failures so far: 67
+Anomalies so far: 66
+
+----- Plate 238 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 238 finished. Number of required inputs: 0 
+--------
+Successes so far: 1207
+Failures so far: 68
+Anomalies so far: 67
+
+----- Plate 239 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 239 finished. Number of required inputs: 0 
+--------
+Successes so far: 1213
+Failures so far: 69
+Anomalies so far: 67
+
+----- Plate 240 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 240 finished. Number of required inputs: 0 
+--------
+Successes so far: 1213
+Failures so far: 69
+Anomalies so far: 67
+
+----- Plate 241 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 241 finished. Number of required inputs: 1 
+--------
+Successes so far: 1219
+Failures so far: 69
+Anomalies so far: 68
+
+----- Plate 242 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 242 finished. Number of required inputs: 0 
+--------
+Successes so far: 1225
+Failures so far: 71
+Anomalies so far: 68
+
+----- Plate 243 -----
+Episode Done. Final State: end, Iterations: 4
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 243 finished. Number of required inputs: 0 
+--------
+Successes so far: 1226
+Failures so far: 71
+Anomalies so far: 68
+
+----- Plate 244 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 244 finished. Number of required inputs: 0 
+--------
+Successes so far: 1232
+Failures so far: 71
+Anomalies so far: 68
+
+----- Plate 245 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 245 finished. Number of required inputs: 0 
+--------
+Successes so far: 1235
+Failures so far: 71
+Anomalies so far: 68
+
+----- Plate 246 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 246 finished. Number of required inputs: 1 
+--------
+Successes so far: 1241
+Failures so far: 72
+Anomalies so far: 68
+
+----- Plate 247 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 247 finished. Number of required inputs: 2 
+--------
+Successes so far: 1247
+Failures so far: 72
+Anomalies so far: 68
+
+----- Plate 248 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 248 finished. Number of required inputs: 0 
+--------
+Successes so far: 1253
+Failures so far: 72
+Anomalies so far: 68
+
+----- Plate 249 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 249 finished. Number of required inputs: 0 
+--------
+Successes so far: 1256
+Failures so far: 72
+Anomalies so far: 68
+
+----- Plate 250 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 250 finished. Number of required inputs: 0 
+--------
+Successes so far: 1262
+Failures so far: 73
+Anomalies so far: 68
+
+----- Plate 251 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 251 finished. Number of required inputs: 1 
+--------
+Successes so far: 1268
+Failures so far: 73
+Anomalies so far: 68
+
+----- Plate 252 -----
+Episode Done. Final State: end, Iterations: 11
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 252 finished. Number of required inputs: 0 
+--------
+Successes so far: 1271
+Failures so far: 73
+Anomalies so far: 68
+
+----- Plate 253 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 253 finished. Number of required inputs: 1 
+--------
+Successes so far: 1277
+Failures so far: 73
+Anomalies so far: 68
+
+----- Plate 254 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 254 finished. Number of required inputs: 1 
+--------
+Successes so far: 1283
+Failures so far: 73
+Anomalies so far: 68
+
+----- Plate 255 -----
+Episode Done. Final State: end, Iterations: 21
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 255 finished. Number of required inputs: 0 
+--------
+Successes so far: 1289
+Failures so far: 73
+Anomalies so far: 69
+
+----- Plate 256 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 256 finished. Number of required inputs: 0 
+--------
+Successes so far: 1295
+Failures so far: 74
+Anomalies so far: 69
+
+----- Plate 257 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 257 finished. Number of required inputs: 0 
+--------
+Successes so far: 1301
+Failures so far: 74
+Anomalies so far: 69
+
+----- Plate 258 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 258 finished. Number of required inputs: 0 
+--------
+Successes so far: 1302
+Failures so far: 74
+Anomalies so far: 69
+
+----- Plate 259 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 259 finished. Number of required inputs: 0 
+--------
+Successes so far: 1308
+Failures so far: 74
+Anomalies so far: 69
+
+----- Plate 260 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 260 finished. Number of required inputs: 0 
+--------
+Successes so far: 1314
+Failures so far: 74
+Anomalies so far: 70
+
+----- Plate 261 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 261 finished. Number of required inputs: 0 
+--------
+Successes so far: 1320
+Failures so far: 74
+Anomalies so far: 70
+
+----- Plate 262 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 1
+Failures: 1
+Anomalies: 0
+Remaining food items: 5
+
+Plate 262 finished. Number of required inputs: 0 
+--------
+Successes so far: 1321
+Failures so far: 75
+Anomalies so far: 70
+
+----- Plate 263 -----
+Episode Done. Final State: end, Iterations: 11
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 263 finished. Number of required inputs: 0 
+--------
+Successes so far: 1324
+Failures so far: 75
+Anomalies so far: 70
+
+----- Plate 264 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 264 finished. Number of required inputs: 1 
+--------
+Successes so far: 1330
+Failures so far: 76
+Anomalies so far: 71
+
+----- Plate 265 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 265 finished. Number of required inputs: 0 
+--------
+Successes so far: 1336
+Failures so far: 76
+Anomalies so far: 71
+
+----- Plate 266 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 266 finished. Number of required inputs: 0 
+--------
+Successes so far: 1337
+Failures so far: 76
+Anomalies so far: 71
+
+----- Plate 267 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 267 finished. Number of required inputs: 0 
+--------
+Successes so far: 1343
+Failures so far: 76
+Anomalies so far: 71
+
+----- Plate 268 -----
+Episode Done. Final State: end, Iterations: 8
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 268 finished. Number of required inputs: 0 
+--------
+Successes so far: 1345
+Failures so far: 76
+Anomalies so far: 71
+
+----- Plate 269 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 269 finished. Number of required inputs: 0 
+--------
+Successes so far: 1351
+Failures so far: 77
+Anomalies so far: 71
+
+----- Plate 270 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 270 finished. Number of required inputs: 1 
+--------
+Successes so far: 1357
+Failures so far: 77
+Anomalies so far: 71
+
+----- Plate 271 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 271 finished. Number of required inputs: 0 
+--------
+Successes so far: 1363
+Failures so far: 77
+Anomalies so far: 71
+
+----- Plate 272 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 272 finished. Number of required inputs: 0 
+--------
+Successes so far: 1369
+Failures so far: 77
+Anomalies so far: 71
+
+----- Plate 273 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 273 finished. Number of required inputs: 0 
+--------
+Successes so far: 1375
+Failures so far: 78
+Anomalies so far: 71
+
+----- Plate 274 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 274 finished. Number of required inputs: 0 
+--------
+Successes so far: 1381
+Failures so far: 78
+Anomalies so far: 72
+
+----- Plate 275 -----
+Episode Done. Final State: end, Iterations: 8
+Successes: 1
+Failures: 0
+Anomalies: 1
+Remaining food items: 5
+
+Plate 275 finished. Number of required inputs: 0 
+--------
+Successes so far: 1382
+Failures so far: 78
+Anomalies so far: 73
+
+----- Plate 276 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 276 finished. Number of required inputs: 1 
+--------
+Successes so far: 1388
+Failures so far: 78
+Anomalies so far: 74
+
+----- Plate 277 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 277 finished. Number of required inputs: 1 
+--------
+Successes so far: 1394
+Failures so far: 78
+Anomalies so far: 74
+
+----- Plate 278 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 278 finished. Number of required inputs: 0 
+--------
+Successes so far: 1400
+Failures so far: 78
+Anomalies so far: 75
+
+----- Plate 279 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 279 finished. Number of required inputs: 2 
+--------
+Successes so far: 1406
+Failures so far: 78
+Anomalies so far: 76
+
+----- Plate 280 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 0
+Anomalies: 3
+Remaining food items: 0
+
+Plate 280 finished. Number of required inputs: 2 
+--------
+Successes so far: 1412
+Failures so far: 78
+Anomalies so far: 79
+
+----- Plate 281 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 281 finished. Number of required inputs: 0 
+--------
+Successes so far: 1418
+Failures so far: 78
+Anomalies so far: 79
+
+----- Plate 282 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 0
+Failures: 0
+Anomalies: 1
+Remaining food items: 6
+
+Plate 282 finished. Number of required inputs: 0 
+--------
+Successes so far: 1418
+Failures so far: 78
+Anomalies so far: 80
+
+----- Plate 283 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 283 finished. Number of required inputs: 1 
+--------
+Successes so far: 1424
+Failures so far: 78
+Anomalies so far: 80
+
+----- Plate 284 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 284 finished. Number of required inputs: 1 
+--------
+Successes so far: 1430
+Failures so far: 78
+Anomalies so far: 81
+
+----- Plate 285 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 285 finished. Number of required inputs: 0 
+--------
+Successes so far: 1436
+Failures so far: 78
+Anomalies so far: 82
+
+----- Plate 286 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 286 finished. Number of required inputs: 0 
+--------
+Successes so far: 1436
+Failures so far: 78
+Anomalies so far: 82
+
+----- Plate 287 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 287 finished. Number of required inputs: 0 
+--------
+Successes so far: 1442
+Failures so far: 78
+Anomalies so far: 82
+
+----- Plate 288 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 288 finished. Number of required inputs: 0 
+--------
+Successes so far: 1444
+Failures so far: 78
+Anomalies so far: 82
+
+----- Plate 289 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 289 finished. Number of required inputs: 0 
+--------
+Successes so far: 1450
+Failures so far: 78
+Anomalies so far: 82
+
+----- Plate 290 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 290 finished. Number of required inputs: 0 
+--------
+Successes so far: 1456
+Failures so far: 78
+Anomalies so far: 83
+
+----- Plate 291 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 291 finished. Number of required inputs: 0 
+--------
+Successes so far: 1460
+Failures so far: 78
+Anomalies so far: 83
+
+----- Plate 292 -----
+Episode Done. Final State: end, Iterations: 6
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 292 finished. Number of required inputs: 0 
+--------
+Successes so far: 1462
+Failures so far: 78
+Anomalies so far: 83
+
+----- Plate 293 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 293 finished. Number of required inputs: 0 
+--------
+Successes so far: 1468
+Failures so far: 78
+Anomalies so far: 83
+
+----- Plate 294 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 294 finished. Number of required inputs: 0 
+--------
+Successes so far: 1474
+Failures so far: 79
+Anomalies so far: 83
+
+----- Plate 295 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 295 finished. Number of required inputs: 0 
+--------
+Successes so far: 1480
+Failures so far: 79
+Anomalies so far: 83
+
+----- Plate 296 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 296 finished. Number of required inputs: 0 
+--------
+Successes so far: 1486
+Failures so far: 79
+Anomalies so far: 83
+
+----- Plate 297 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 297 finished. Number of required inputs: 0 
+--------
+Successes so far: 1492
+Failures so far: 80
+Anomalies so far: 83
+
+----- Plate 298 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 298 finished. Number of required inputs: 1 
+--------
+Successes so far: 1498
+Failures so far: 80
+Anomalies so far: 84
+
+----- Plate 299 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 299 finished. Number of required inputs: 1 
+--------
+Successes so far: 1504
+Failures so far: 80
+Anomalies so far: 84
+
+----- Plate 300 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 300 finished. Number of required inputs: 0 
+--------
+Successes so far: 1510
+Failures so far: 80
+Anomalies so far: 84
+
+----- Plate 301 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 301 finished. Number of required inputs: 0 
+--------
+Successes so far: 1513
+Failures so far: 80
+Anomalies so far: 84
+
+----- Plate 302 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 302 finished. Number of required inputs: 1 
+--------
+Successes so far: 1519
+Failures so far: 80
+Anomalies so far: 85
+
+----- Plate 303 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 303 finished. Number of required inputs: 0 
+--------
+Successes so far: 1525
+Failures so far: 81
+Anomalies so far: 85
+
+----- Plate 304 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 304 finished. Number of required inputs: 0 
+--------
+Successes so far: 1531
+Failures so far: 81
+Anomalies so far: 85
+
+----- Plate 305 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 5
+Failures: 1
+Anomalies: 0
+Remaining food items: 1
+
+Plate 305 finished. Number of required inputs: 0 
+--------
+Successes so far: 1536
+Failures so far: 82
+Anomalies so far: 85
+
+----- Plate 306 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 306 finished. Number of required inputs: 0 
+--------
+Successes so far: 1542
+Failures so far: 82
+Anomalies so far: 85
+
+----- Plate 307 -----
+Episode Done. Final State: end, Iterations: 16
+Successes: 5
+Failures: 0
+Anomalies: 0
+Remaining food items: 1
+
+Plate 307 finished. Number of required inputs: 0 
+--------
+Successes so far: 1547
+Failures so far: 82
+Anomalies so far: 85
+
+----- Plate 308 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 308 finished. Number of required inputs: 1 
+--------
+Successes so far: 1553
+Failures so far: 82
+Anomalies so far: 85
+
+----- Plate 309 -----
+Episode Done. Final State: end, Iterations: 31
+Successes: 6
+Failures: 3
+Anomalies: 1
+Remaining food items: 0
+
+Plate 309 finished. Number of required inputs: 1 
+--------
+Successes so far: 1559
+Failures so far: 85
+Anomalies so far: 86
+
+----- Plate 310 -----
+Episode Done. Final State: end, Iterations: 16
+Successes: 3
+Failures: 1
+Anomalies: 1
+Remaining food items: 3
+
+Plate 310 finished. Number of required inputs: 0 
+--------
+Successes so far: 1562
+Failures so far: 86
+Anomalies so far: 87
+
+----- Plate 311 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 311 finished. Number of required inputs: 0 
+--------
+Successes so far: 1568
+Failures so far: 87
+Anomalies so far: 87
+
+----- Plate 312 -----
+Episode Done. Final State: end, Iterations: 31
+Successes: 6
+Failures: 0
+Anomalies: 4
+Remaining food items: 0
+
+Plate 312 finished. Number of required inputs: 1 
+--------
+Successes so far: 1574
+Failures so far: 87
+Anomalies so far: 91
+
+----- Plate 313 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 3
+Anomalies: 0
+Remaining food items: 0
+
+Plate 313 finished. Number of required inputs: 1 
+--------
+Successes so far: 1580
+Failures so far: 90
+Anomalies so far: 91
+
+----- Plate 314 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 314 finished. Number of required inputs: 0 
+--------
+Successes so far: 1586
+Failures so far: 90
+Anomalies so far: 91
+
+----- Plate 315 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 315 finished. Number of required inputs: 0 
+--------
+Successes so far: 1592
+Failures so far: 90
+Anomalies so far: 91
+
+----- Plate 316 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 316 finished. Number of required inputs: 2 
+--------
+Successes so far: 1598
+Failures so far: 91
+Anomalies so far: 91
+
+----- Plate 317 -----
+Episode Done. Final State: end, Iterations: 11
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 317 finished. Number of required inputs: 0 
+--------
+Successes so far: 1601
+Failures so far: 91
+Anomalies so far: 91
+
+----- Plate 318 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 318 finished. Number of required inputs: 0 
+--------
+Successes so far: 1607
+Failures so far: 91
+Anomalies so far: 91
+
+----- Plate 319 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 319 finished. Number of required inputs: 0 
+--------
+Successes so far: 1613
+Failures so far: 91
+Anomalies so far: 91
+
+----- Plate 320 -----
+Episode Done. Final State: end, Iterations: 11
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 320 finished. Number of required inputs: 0 
+--------
+Successes so far: 1616
+Failures so far: 91
+Anomalies so far: 91
+
+----- Plate 321 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 321 finished. Number of required inputs: 2 
+--------
+Successes so far: 1622
+Failures so far: 91
+Anomalies so far: 91
+
+----- Plate 322 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 322 finished. Number of required inputs: 0 
+--------
+Successes so far: 1627
+Failures so far: 91
+Anomalies so far: 92
+
+----- Plate 323 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 323 finished. Number of required inputs: 0 
+--------
+Successes so far: 1633
+Failures so far: 92
+Anomalies so far: 92
+
+----- Plate 324 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 324 finished. Number of required inputs: 0 
+--------
+Successes so far: 1639
+Failures so far: 94
+Anomalies so far: 92
+
+----- Plate 325 -----
+Episode Done. Final State: end, Iterations: 6
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 325 finished. Number of required inputs: 0 
+--------
+Successes so far: 1641
+Failures so far: 94
+Anomalies so far: 92
+
+----- Plate 326 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 326 finished. Number of required inputs: 0 
+--------
+Successes so far: 1647
+Failures so far: 94
+Anomalies so far: 92
+
+----- Plate 327 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 327 finished. Number of required inputs: 0 
+--------
+Successes so far: 1653
+Failures so far: 94
+Anomalies so far: 92
+
+----- Plate 328 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 328 finished. Number of required inputs: 0 
+--------
+Successes so far: 1659
+Failures so far: 94
+Anomalies so far: 92
+
+----- Plate 329 -----
+Episode Done. Final State: end, Iterations: 20
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 329 finished. Number of required inputs: 1 
+--------
+Successes so far: 1664
+Failures so far: 94
+Anomalies so far: 93
+
+----- Plate 330 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 330 finished. Number of required inputs: 1 
+--------
+Successes so far: 1670
+Failures so far: 94
+Anomalies so far: 94
+
+----- Plate 331 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 331 finished. Number of required inputs: 0 
+--------
+Successes so far: 1671
+Failures so far: 94
+Anomalies so far: 94
+
+----- Plate 332 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 332 finished. Number of required inputs: 0 
+--------
+Successes so far: 1677
+Failures so far: 94
+Anomalies so far: 94
+
+----- Plate 333 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 333 finished. Number of required inputs: 0 
+--------
+Successes so far: 1683
+Failures so far: 95
+Anomalies so far: 95
+
+----- Plate 334 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 334 finished. Number of required inputs: 1 
+--------
+Successes so far: 1689
+Failures so far: 95
+Anomalies so far: 95
+
+----- Plate 335 -----
+Episode Done. Final State: end, Iterations: 13
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 335 finished. Number of required inputs: 0 
+--------
+Successes so far: 1693
+Failures so far: 95
+Anomalies so far: 95
+
+----- Plate 336 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 336 finished. Number of required inputs: 1 
+--------
+Successes so far: 1699
+Failures so far: 95
+Anomalies so far: 95
+
+----- Plate 337 -----
+Episode Done. Final State: end, Iterations: 2
+Successes: 0
+Failures: 0
+Anomalies: 0
+Remaining food items: 6
+
+Plate 337 finished. Number of required inputs: 0 
+--------
+Successes so far: 1699
+Failures so far: 95
+Anomalies so far: 95
+
+----- Plate 338 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 338 finished. Number of required inputs: 0 
+--------
+Successes so far: 1705
+Failures so far: 95
+Anomalies so far: 95
+
+----- Plate 339 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 339 finished. Number of required inputs: 0 
+--------
+Successes so far: 1711
+Failures so far: 95
+Anomalies so far: 96
+
+----- Plate 340 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 340 finished. Number of required inputs: 0 
+--------
+Successes so far: 1717
+Failures so far: 95
+Anomalies so far: 96
+
+----- Plate 341 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 341 finished. Number of required inputs: 0 
+--------
+Successes so far: 1720
+Failures so far: 95
+Anomalies so far: 96
+
+----- Plate 342 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 342 finished. Number of required inputs: 2 
+--------
+Successes so far: 1726
+Failures so far: 95
+Anomalies so far: 98
+
+----- Plate 343 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 343 finished. Number of required inputs: 0 
+--------
+Successes so far: 1732
+Failures so far: 95
+Anomalies so far: 98
+
+----- Plate 344 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 344 finished. Number of required inputs: 0 
+--------
+Successes so far: 1738
+Failures so far: 95
+Anomalies so far: 98
+
+----- Plate 345 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 5
+Failures: 1
+Anomalies: 1
+Remaining food items: 1
+
+Plate 345 finished. Number of required inputs: 1 
+--------
+Successes so far: 1743
+Failures so far: 96
+Anomalies so far: 99
+
+----- Plate 346 -----
+Episode Done. Final State: end, Iterations: 31
+Successes: 6
+Failures: 2
+Anomalies: 2
+Remaining food items: 0
+
+Plate 346 finished. Number of required inputs: 0 
+--------
+Successes so far: 1749
+Failures so far: 98
+Anomalies so far: 101
+
+----- Plate 347 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 347 finished. Number of required inputs: 0 
+--------
+Successes so far: 1755
+Failures so far: 99
+Anomalies so far: 101
+
+----- Plate 348 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 348 finished. Number of required inputs: 0 
+--------
+Successes so far: 1760
+Failures so far: 99
+Anomalies so far: 102
+
+----- Plate 349 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 349 finished. Number of required inputs: 0 
+--------
+Successes so far: 1766
+Failures so far: 99
+Anomalies so far: 102
+
+----- Plate 350 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 350 finished. Number of required inputs: 0 
+--------
+Successes so far: 1772
+Failures so far: 99
+Anomalies so far: 102
+
+----- Plate 351 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 351 finished. Number of required inputs: 0 
+--------
+Successes so far: 1778
+Failures so far: 99
+Anomalies so far: 102
+
+----- Plate 352 -----
+Episode Done. Final State: end, Iterations: 16
+Successes: 4
+Failures: 0
+Anomalies: 1
+Remaining food items: 2
+
+Plate 352 finished. Number of required inputs: 0 
+--------
+Successes so far: 1782
+Failures so far: 99
+Anomalies so far: 103
+
+----- Plate 353 -----
+Episode Done. Final State: end, Iterations: 28
+Successes: 6
+Failures: 2
+Anomalies: 1
+Remaining food items: 0
+
+Plate 353 finished. Number of required inputs: 0 
+--------
+Successes so far: 1788
+Failures so far: 101
+Anomalies so far: 104
+
+----- Plate 354 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 354 finished. Number of required inputs: 0 
+--------
+Successes so far: 1794
+Failures so far: 101
+Anomalies so far: 105
+
+----- Plate 355 -----
+Episode Done. Final State: end, Iterations: 11
+Successes: 2
+Failures: 0
+Anomalies: 1
+Remaining food items: 4
+
+Plate 355 finished. Number of required inputs: 0 
+--------
+Successes so far: 1796
+Failures so far: 101
+Anomalies so far: 106
+
+----- Plate 356 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 356 finished. Number of required inputs: 0 
+--------
+Successes so far: 1802
+Failures so far: 101
+Anomalies so far: 107
+
+----- Plate 357 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 357 finished. Number of required inputs: 0 
+--------
+Successes so far: 1808
+Failures so far: 101
+Anomalies so far: 107
+
+----- Plate 358 -----
+Episode Done. Final State: end, Iterations: 15
+Successes: 5
+Failures: 0
+Anomalies: 0
+Remaining food items: 1
+
+Plate 358 finished. Number of required inputs: 1 
+--------
+Successes so far: 1813
+Failures so far: 101
+Anomalies so far: 107
+
+----- Plate 359 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 359 finished. Number of required inputs: 0 
+--------
+Successes so far: 1819
+Failures so far: 101
+Anomalies so far: 107
+
+----- Plate 360 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 360 finished. Number of required inputs: 0 
+--------
+Successes so far: 1825
+Failures so far: 101
+Anomalies so far: 107
+
+----- Plate 361 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 361 finished. Number of required inputs: 0 
+--------
+Successes so far: 1831
+Failures so far: 102
+Anomalies so far: 107
+
+----- Plate 362 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 362 finished. Number of required inputs: 0 
+--------
+Successes so far: 1837
+Failures so far: 102
+Anomalies so far: 107
+
+----- Plate 363 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 2
+Failures: 1
+Anomalies: 0
+Remaining food items: 4
+
+Plate 363 finished. Number of required inputs: 0 
+--------
+Successes so far: 1839
+Failures so far: 103
+Anomalies so far: 107
+
+----- Plate 364 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 364 finished. Number of required inputs: 1 
+--------
+Successes so far: 1845
+Failures so far: 104
+Anomalies so far: 107
+
+----- Plate 365 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 365 finished. Number of required inputs: 1 
+--------
+Successes so far: 1851
+Failures so far: 104
+Anomalies so far: 107
+
+----- Plate 366 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 366 finished. Number of required inputs: 0 
+--------
+Successes so far: 1857
+Failures so far: 105
+Anomalies so far: 107
+
+----- Plate 367 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 367 finished. Number of required inputs: 1 
+--------
+Successes so far: 1860
+Failures so far: 105
+Anomalies so far: 107
+
+----- Plate 368 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 368 finished. Number of required inputs: 0 
+--------
+Successes so far: 1866
+Failures so far: 106
+Anomalies so far: 107
+
+----- Plate 369 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 369 finished. Number of required inputs: 0 
+--------
+Successes so far: 1872
+Failures so far: 106
+Anomalies so far: 108
+
+----- Plate 370 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 370 finished. Number of required inputs: 1 
+--------
+Successes so far: 1878
+Failures so far: 106
+Anomalies so far: 108
+
+----- Plate 371 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 371 finished. Number of required inputs: 0 
+--------
+Successes so far: 1884
+Failures so far: 106
+Anomalies so far: 108
+
+----- Plate 372 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 372 finished. Number of required inputs: 0 
+--------
+Successes so far: 1890
+Failures so far: 107
+Anomalies so far: 108
+
+----- Plate 373 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 373 finished. Number of required inputs: 0 
+--------
+Successes so far: 1896
+Failures so far: 107
+Anomalies so far: 109
+
+----- Plate 374 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 374 finished. Number of required inputs: 0 
+--------
+Successes so far: 1902
+Failures so far: 107
+Anomalies so far: 109
+
+----- Plate 375 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 375 finished. Number of required inputs: 0 
+--------
+Successes so far: 1908
+Failures so far: 107
+Anomalies so far: 109
+
+----- Plate 376 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 376 finished. Number of required inputs: 0 
+--------
+Successes so far: 1914
+Failures so far: 107
+Anomalies so far: 110
+
+----- Plate 377 -----
+Episode Done. Final State: end, Iterations: 31
+Successes: 6
+Failures: 1
+Anomalies: 3
+Remaining food items: 0
+
+Plate 377 finished. Number of required inputs: 0 
+--------
+Successes so far: 1920
+Failures so far: 108
+Anomalies so far: 113
+
+----- Plate 378 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 378 finished. Number of required inputs: 0 
+--------
+Successes so far: 1926
+Failures so far: 108
+Anomalies so far: 113
+
+----- Plate 379 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 379 finished. Number of required inputs: 3 
+--------
+Successes so far: 1932
+Failures so far: 109
+Anomalies so far: 113
+
+----- Plate 380 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 380 finished. Number of required inputs: 0 
+--------
+Successes so far: 1938
+Failures so far: 110
+Anomalies so far: 113
+
+----- Plate 381 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 381 finished. Number of required inputs: 0 
+--------
+Successes so far: 1944
+Failures so far: 110
+Anomalies so far: 113
+
+----- Plate 382 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 382 finished. Number of required inputs: 0 
+--------
+Successes so far: 1950
+Failures so far: 110
+Anomalies so far: 114
+
+----- Plate 383 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 383 finished. Number of required inputs: 0 
+--------
+Successes so far: 1956
+Failures so far: 110
+Anomalies so far: 114
+
+----- Plate 384 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 384 finished. Number of required inputs: 0 
+--------
+Successes so far: 1958
+Failures so far: 110
+Anomalies so far: 114
+
+----- Plate 385 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 385 finished. Number of required inputs: 0 
+--------
+Successes so far: 1964
+Failures so far: 112
+Anomalies so far: 114
+
+----- Plate 386 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 386 finished. Number of required inputs: 1 
+--------
+Successes so far: 1970
+Failures so far: 112
+Anomalies so far: 114
+
+----- Plate 387 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 387 finished. Number of required inputs: 1 
+--------
+Successes so far: 1976
+Failures so far: 112
+Anomalies so far: 114
+
+----- Plate 388 -----
+Episode Done. Final State: end, Iterations: 13
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 388 finished. Number of required inputs: 0 
+--------
+Successes so far: 1980
+Failures so far: 112
+Anomalies so far: 114
+
+----- Plate 389 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 389 finished. Number of required inputs: 1 
+--------
+Successes so far: 1986
+Failures so far: 114
+Anomalies so far: 114
+
+----- Plate 390 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 2
+Failures: 1
+Anomalies: 0
+Remaining food items: 4
+
+Plate 390 finished. Number of required inputs: 0 
+--------
+Successes so far: 1988
+Failures so far: 115
+Anomalies so far: 114
+
+----- Plate 391 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 391 finished. Number of required inputs: 0 
+--------
+Successes so far: 1994
+Failures so far: 115
+Anomalies so far: 114
+
+----- Plate 392 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 392 finished. Number of required inputs: 0 
+--------
+Successes so far: 2000
+Failures so far: 115
+Anomalies so far: 114
+
+----- Plate 393 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 393 finished. Number of required inputs: 0 
+--------
+Successes so far: 2006
+Failures so far: 115
+Anomalies so far: 116
+
+----- Plate 394 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 394 finished. Number of required inputs: 0 
+--------
+Successes so far: 2009
+Failures so far: 115
+Anomalies so far: 116
+
+----- Plate 395 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 395 finished. Number of required inputs: 1 
+--------
+Successes so far: 2015
+Failures so far: 115
+Anomalies so far: 116
+
+----- Plate 396 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 396 finished. Number of required inputs: 0 
+--------
+Successes so far: 2021
+Failures so far: 115
+Anomalies so far: 116
+
+----- Plate 397 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 397 finished. Number of required inputs: 0 
+--------
+Successes so far: 2027
+Failures so far: 115
+Anomalies so far: 116
+
+----- Plate 398 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 398 finished. Number of required inputs: 0 
+--------
+Successes so far: 2033
+Failures so far: 115
+Anomalies so far: 116
+
+----- Plate 399 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 399 finished. Number of required inputs: 0 
+--------
+Successes so far: 2039
+Failures so far: 115
+Anomalies so far: 116
+
+----- Plate 400 -----
+Episode Done. Final State: end, Iterations: 14
+Successes: 3
+Failures: 1
+Anomalies: 0
+Remaining food items: 3
+
+Plate 400 finished. Number of required inputs: 0 
+--------
+Successes so far: 2042
+Failures so far: 116
+Anomalies so far: 116
+
+----- Plate 401 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 401 finished. Number of required inputs: 0 
+--------
+Successes so far: 2048
+Failures so far: 116
+Anomalies so far: 116
+
+----- Plate 402 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 402 finished. Number of required inputs: 0 
+--------
+Successes so far: 2049
+Failures so far: 116
+Anomalies so far: 116
+
+----- Plate 403 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 403 finished. Number of required inputs: 0 
+--------
+Successes so far: 2055
+Failures so far: 117
+Anomalies so far: 116
+
+----- Plate 404 -----
+Episode Done. Final State: end, Iterations: 13
+Successes: 3
+Failures: 1
+Anomalies: 0
+Remaining food items: 3
+
+Plate 404 finished. Number of required inputs: 0 
+--------
+Successes so far: 2058
+Failures so far: 118
+Anomalies so far: 116
+
+----- Plate 405 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 405 finished. Number of required inputs: 1 
+--------
+Successes so far: 2064
+Failures so far: 118
+Anomalies so far: 118
+
+----- Plate 406 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 406 finished. Number of required inputs: 1 
+--------
+Successes so far: 2070
+Failures so far: 118
+Anomalies so far: 118
+
+----- Plate 407 -----
+Episode Done. Final State: end, Iterations: 5
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 407 finished. Number of required inputs: 0 
+--------
+Successes so far: 2071
+Failures so far: 118
+Anomalies so far: 118
+
+----- Plate 408 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 408 finished. Number of required inputs: 1 
+--------
+Successes so far: 2077
+Failures so far: 118
+Anomalies so far: 118
+
+----- Plate 409 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 409 finished. Number of required inputs: 1 
+--------
+Successes so far: 2083
+Failures so far: 118
+Anomalies so far: 119
+
+----- Plate 410 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 410 finished. Number of required inputs: 1 
+--------
+Successes so far: 2089
+Failures so far: 118
+Anomalies so far: 119
+
+----- Plate 411 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 411 finished. Number of required inputs: 0 
+--------
+Successes so far: 2095
+Failures so far: 118
+Anomalies so far: 119
+
+----- Plate 412 -----
+Episode Done. Final State: end, Iterations: 16
+Successes: 5
+Failures: 0
+Anomalies: 0
+Remaining food items: 1
+
+Plate 412 finished. Number of required inputs: 0 
+--------
+Successes so far: 2100
+Failures so far: 118
+Anomalies so far: 119
+
+----- Plate 413 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 413 finished. Number of required inputs: 1 
+--------
+Successes so far: 2106
+Failures so far: 118
+Anomalies so far: 119
+
+----- Plate 414 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 414 finished. Number of required inputs: 0 
+--------
+Successes so far: 2111
+Failures so far: 118
+Anomalies so far: 120
+
+----- Plate 415 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 2
+Anomalies: 0
+Remaining food items: 0
+
+Plate 415 finished. Number of required inputs: 1 
+--------
+Successes so far: 2117
+Failures so far: 120
+Anomalies so far: 120
+
+----- Plate 416 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 416 finished. Number of required inputs: 0 
+--------
+Successes so far: 2123
+Failures so far: 120
+Anomalies so far: 120
+
+----- Plate 417 -----
+Episode Done. Final State: end, Iterations: 5
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 417 finished. Number of required inputs: 0 
+--------
+Successes so far: 2124
+Failures so far: 120
+Anomalies so far: 120
+
+----- Plate 418 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 418 finished. Number of required inputs: 1 
+--------
+Successes so far: 2130
+Failures so far: 120
+Anomalies so far: 121
+
+----- Plate 419 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 419 finished. Number of required inputs: 0 
+--------
+Successes so far: 2136
+Failures so far: 120
+Anomalies so far: 121
+
+----- Plate 420 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 420 finished. Number of required inputs: 0 
+--------
+Successes so far: 2142
+Failures so far: 120
+Anomalies so far: 121
+
+----- Plate 421 -----
+Episode Done. Final State: end, Iterations: 6
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 421 finished. Number of required inputs: 1 
+--------
+Successes so far: 2144
+Failures so far: 120
+Anomalies so far: 121
+
+----- Plate 422 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 422 finished. Number of required inputs: 1 
+--------
+Successes so far: 2150
+Failures so far: 120
+Anomalies so far: 121
+
+----- Plate 423 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 423 finished. Number of required inputs: 0 
+--------
+Successes so far: 2156
+Failures so far: 121
+Anomalies so far: 121
+
+----- Plate 424 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 424 finished. Number of required inputs: 0 
+--------
+Successes so far: 2162
+Failures so far: 121
+Anomalies so far: 121
+
+----- Plate 425 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 425 finished. Number of required inputs: 0 
+--------
+Successes so far: 2168
+Failures so far: 122
+Anomalies so far: 121
+
+----- Plate 426 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 426 finished. Number of required inputs: 2 
+--------
+Successes so far: 2174
+Failures so far: 122
+Anomalies so far: 122
+
+----- Plate 427 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 5
+Failures: 1
+Anomalies: 2
+Remaining food items: 1
+
+Plate 427 finished. Number of required inputs: 0 
+--------
+Successes so far: 2179
+Failures so far: 123
+Anomalies so far: 124
+
+----- Plate 428 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 428 finished. Number of required inputs: 0 
+--------
+Successes so far: 2185
+Failures so far: 123
+Anomalies so far: 124
+
+----- Plate 429 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 429 finished. Number of required inputs: 0 
+--------
+Successes so far: 2191
+Failures so far: 123
+Anomalies so far: 125
+
+----- Plate 430 -----
+Episode Done. Final State: end, Iterations: 12
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 430 finished. Number of required inputs: 0 
+--------
+Successes so far: 2195
+Failures so far: 123
+Anomalies so far: 125
+
+----- Plate 431 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 431 finished. Number of required inputs: 0 
+--------
+Successes so far: 2198
+Failures so far: 123
+Anomalies so far: 125
+
+----- Plate 432 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 432 finished. Number of required inputs: 0 
+--------
+Successes so far: 2204
+Failures so far: 123
+Anomalies so far: 126
+
+----- Plate 433 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 433 finished. Number of required inputs: 0 
+--------
+Successes so far: 2210
+Failures so far: 123
+Anomalies so far: 126
+
+----- Plate 434 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 434 finished. Number of required inputs: 1 
+--------
+Successes so far: 2216
+Failures so far: 124
+Anomalies so far: 126
+
+----- Plate 435 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 435 finished. Number of required inputs: 1 
+--------
+Successes so far: 2222
+Failures so far: 124
+Anomalies so far: 126
+
+----- Plate 436 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 436 finished. Number of required inputs: 0 
+--------
+Successes so far: 2228
+Failures so far: 124
+Anomalies so far: 126
+
+----- Plate 437 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 437 finished. Number of required inputs: 0 
+--------
+Successes so far: 2234
+Failures so far: 124
+Anomalies so far: 127
+
+----- Plate 438 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 438 finished. Number of required inputs: 1 
+--------
+Successes so far: 2240
+Failures so far: 124
+Anomalies so far: 127
+
+----- Plate 439 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 439 finished. Number of required inputs: 0 
+--------
+Successes so far: 2246
+Failures so far: 124
+Anomalies so far: 128
+
+----- Plate 440 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 440 finished. Number of required inputs: 0 
+--------
+Successes so far: 2252
+Failures so far: 124
+Anomalies so far: 128
+
+----- Plate 441 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 441 finished. Number of required inputs: 0 
+--------
+Successes so far: 2258
+Failures so far: 124
+Anomalies so far: 128
+
+----- Plate 442 -----
+Episode Done. Final State: end, Iterations: 17
+Successes: 4
+Failures: 1
+Anomalies: 0
+Remaining food items: 2
+
+Plate 442 finished. Number of required inputs: 0 
+--------
+Successes so far: 2262
+Failures so far: 125
+Anomalies so far: 128
+
+----- Plate 443 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 443 finished. Number of required inputs: 1 
+--------
+Successes so far: 2268
+Failures so far: 126
+Anomalies so far: 128
+
+----- Plate 444 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 444 finished. Number of required inputs: 1 
+--------
+Successes so far: 2274
+Failures so far: 126
+Anomalies so far: 129
+
+----- Plate 445 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 445 finished. Number of required inputs: 1 
+--------
+Successes so far: 2280
+Failures so far: 126
+Anomalies so far: 129
+
+----- Plate 446 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 446 finished. Number of required inputs: 1 
+--------
+Successes so far: 2286
+Failures so far: 126
+Anomalies so far: 129
+
+----- Plate 447 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 447 finished. Number of required inputs: 0 
+--------
+Successes so far: 2292
+Failures so far: 126
+Anomalies so far: 130
+
+----- Plate 448 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 448 finished. Number of required inputs: 0 
+--------
+Successes so far: 2298
+Failures so far: 126
+Anomalies so far: 131
+
+----- Plate 449 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 449 finished. Number of required inputs: 0 
+--------
+Successes so far: 2304
+Failures so far: 126
+Anomalies so far: 131
+
+----- Plate 450 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 450 finished. Number of required inputs: 0 
+--------
+Successes so far: 2310
+Failures so far: 126
+Anomalies so far: 131
+
+----- Plate 451 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 451 finished. Number of required inputs: 0 
+--------
+Successes so far: 2316
+Failures so far: 127
+Anomalies so far: 132
+
+----- Plate 452 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 452 finished. Number of required inputs: 0 
+--------
+Successes so far: 2322
+Failures so far: 127
+Anomalies so far: 132
+
+----- Plate 453 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 453 finished. Number of required inputs: 0 
+--------
+Successes so far: 2328
+Failures so far: 127
+Anomalies so far: 132
+
+----- Plate 454 -----
+Episode Done. Final State: end, Iterations: 18
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 454 finished. Number of required inputs: 1 
+--------
+Successes so far: 2334
+Failures so far: 127
+Anomalies so far: 132
+
+----- Plate 455 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 455 finished. Number of required inputs: 0 
+--------
+Successes so far: 2340
+Failures so far: 127
+Anomalies so far: 132
+
+----- Plate 456 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 456 finished. Number of required inputs: 0 
+--------
+Successes so far: 2346
+Failures so far: 128
+Anomalies so far: 132
+
+----- Plate 457 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 457 finished. Number of required inputs: 1 
+--------
+Successes so far: 2352
+Failures so far: 128
+Anomalies so far: 132
+
+----- Plate 458 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 458 finished. Number of required inputs: 2 
+--------
+Successes so far: 2358
+Failures so far: 128
+Anomalies so far: 133
+
+----- Plate 459 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 459 finished. Number of required inputs: 0 
+--------
+Successes so far: 2364
+Failures so far: 128
+Anomalies so far: 134
+
+----- Plate 460 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 460 finished. Number of required inputs: 2 
+--------
+Successes so far: 2370
+Failures so far: 128
+Anomalies so far: 134
+
+----- Plate 461 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 461 finished. Number of required inputs: 1 
+--------
+Successes so far: 2376
+Failures so far: 128
+Anomalies so far: 134
+
+----- Plate 462 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 462 finished. Number of required inputs: 0 
+--------
+Successes so far: 2382
+Failures so far: 128
+Anomalies so far: 134
+
+----- Plate 463 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 463 finished. Number of required inputs: 1 
+--------
+Successes so far: 2388
+Failures so far: 128
+Anomalies so far: 134
+
+----- Plate 464 -----
+Episode Done. Final State: end, Iterations: 20
+Successes: 5
+Failures: 0
+Anomalies: 1
+Remaining food items: 1
+
+Plate 464 finished. Number of required inputs: 1 
+--------
+Successes so far: 2393
+Failures so far: 128
+Anomalies so far: 135
+
+----- Plate 465 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 465 finished. Number of required inputs: 0 
+--------
+Successes so far: 2399
+Failures so far: 128
+Anomalies so far: 136
+
+----- Plate 466 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 466 finished. Number of required inputs: 0 
+--------
+Successes so far: 2405
+Failures so far: 128
+Anomalies so far: 137
+
+----- Plate 467 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 467 finished. Number of required inputs: 1 
+--------
+Successes so far: 2411
+Failures so far: 129
+Anomalies so far: 138
+
+----- Plate 468 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 468 finished. Number of required inputs: 0 
+--------
+Successes so far: 2417
+Failures so far: 130
+Anomalies so far: 139
+
+----- Plate 469 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 469 finished. Number of required inputs: 0 
+--------
+Successes so far: 2423
+Failures so far: 130
+Anomalies so far: 139
+
+----- Plate 470 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 470 finished. Number of required inputs: 0 
+--------
+Successes so far: 2429
+Failures so far: 130
+Anomalies so far: 140
+
+----- Plate 471 -----
+Episode Done. Final State: end, Iterations: 14
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 471 finished. Number of required inputs: 0 
+--------
+Successes so far: 2433
+Failures so far: 130
+Anomalies so far: 140
+
+----- Plate 472 -----
+Episode Done. Final State: end, Iterations: 25
+Successes: 6
+Failures: 1
+Anomalies: 1
+Remaining food items: 0
+
+Plate 472 finished. Number of required inputs: 1 
+--------
+Successes so far: 2439
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 473 -----
+Episode Done. Final State: end, Iterations: 10
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 473 finished. Number of required inputs: 0 
+--------
+Successes so far: 2442
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 474 -----
+Episode Done. Final State: end, Iterations: 8
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 474 finished. Number of required inputs: 0 
+--------
+Successes so far: 2444
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 475 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 475 finished. Number of required inputs: 0 
+--------
+Successes so far: 2450
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 476 -----
+Episode Done. Final State: end, Iterations: 11
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 476 finished. Number of required inputs: 0 
+--------
+Successes so far: 2453
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 477 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 477 finished. Number of required inputs: 0 
+--------
+Successes so far: 2459
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 478 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 478 finished. Number of required inputs: 0 
+--------
+Successes so far: 2465
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 479 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 479 finished. Number of required inputs: 2 
+--------
+Successes so far: 2471
+Failures so far: 131
+Anomalies so far: 141
+
+----- Plate 480 -----
+Episode Done. Final State: end, Iterations: 21
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 480 finished. Number of required inputs: 0 
+--------
+Successes so far: 2477
+Failures so far: 131
+Anomalies so far: 142
+
+----- Plate 481 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 481 finished. Number of required inputs: 1 
+--------
+Successes so far: 2483
+Failures so far: 132
+Anomalies so far: 142
+
+----- Plate 482 -----
+Episode Done. Final State: end, Iterations: 9
+Successes: 3
+Failures: 0
+Anomalies: 0
+Remaining food items: 3
+
+Plate 482 finished. Number of required inputs: 0 
+--------
+Successes so far: 2486
+Failures so far: 132
+Anomalies so far: 142
+
+----- Plate 483 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 483 finished. Number of required inputs: 0 
+--------
+Successes so far: 2492
+Failures so far: 132
+Anomalies so far: 142
+
+----- Plate 484 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 484 finished. Number of required inputs: 0 
+--------
+Successes so far: 2498
+Failures so far: 132
+Anomalies so far: 142
+
+----- Plate 485 -----
+Episode Done. Final State: end, Iterations: 24
+Successes: 6
+Failures: 0
+Anomalies: 2
+Remaining food items: 0
+
+Plate 485 finished. Number of required inputs: 1 
+--------
+Successes so far: 2504
+Failures so far: 132
+Anomalies so far: 144
+
+----- Plate 486 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 486 finished. Number of required inputs: 0 
+--------
+Successes so far: 2510
+Failures so far: 132
+Anomalies so far: 144
+
+----- Plate 487 -----
+Episode Done. Final State: end, Iterations: 16
+Successes: 5
+Failures: 0
+Anomalies: 0
+Remaining food items: 1
+
+Plate 487 finished. Number of required inputs: 1 
+--------
+Successes so far: 2515
+Failures so far: 132
+Anomalies so far: 144
+
+----- Plate 488 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 488 finished. Number of required inputs: 0 
+--------
+Successes so far: 2521
+Failures so far: 132
+Anomalies so far: 144
+
+----- Plate 489 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 489 finished. Number of required inputs: 1 
+--------
+Successes so far: 2527
+Failures so far: 133
+Anomalies so far: 144
+
+----- Plate 490 -----
+Episode Done. Final State: end, Iterations: 14
+Successes: 4
+Failures: 0
+Anomalies: 0
+Remaining food items: 2
+
+Plate 490 finished. Number of required inputs: 0 
+--------
+Successes so far: 2531
+Failures so far: 133
+Anomalies so far: 144
+
+----- Plate 491 -----
+Episode Done. Final State: end, Iterations: 8
+Successes: 2
+Failures: 0
+Anomalies: 0
+Remaining food items: 4
+
+Plate 491 finished. Number of required inputs: 0 
+--------
+Successes so far: 2533
+Failures so far: 133
+Anomalies so far: 144
+
+----- Plate 492 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 492 finished. Number of required inputs: 0 
+--------
+Successes so far: 2539
+Failures so far: 133
+Anomalies so far: 144
+
+----- Plate 493 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 493 finished. Number of required inputs: 0 
+--------
+Successes so far: 2545
+Failures so far: 133
+Anomalies so far: 144
+
+----- Plate 494 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 494 finished. Number of required inputs: 0 
+--------
+Successes so far: 2551
+Failures so far: 133
+Anomalies so far: 144
+
+----- Plate 495 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 495 finished. Number of required inputs: 1 
+--------
+Successes so far: 2557
+Failures so far: 133
+Anomalies so far: 145
+
+----- Plate 496 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 496 finished. Number of required inputs: 1 
+--------
+Successes so far: 2563
+Failures so far: 133
+Anomalies so far: 145
+
+----- Plate 497 -----
+Episode Done. Final State: end, Iterations: 7
+Successes: 1
+Failures: 0
+Anomalies: 1
+Remaining food items: 5
+
+Plate 497 finished. Number of required inputs: 0 
+--------
+Successes so far: 2564
+Failures so far: 133
+Anomalies so far: 146
+
+----- Plate 498 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 1
+Anomalies: 0
+Remaining food items: 0
+
+Plate 498 finished. Number of required inputs: 0 
+--------
+Successes so far: 2570
+Failures so far: 134
+Anomalies so far: 146
+
+----- Plate 499 -----
+Episode Done. Final State: end, Iterations: 19
+Successes: 6
+Failures: 0
+Anomalies: 0
+Remaining food items: 0
+
+Plate 499 finished. Number of required inputs: 0 
+--------
+Successes so far: 2576
+Failures so far: 134
+Anomalies so far: 146
+
+----- Plate 500 -----
+Episode Done. Final State: end, Iterations: 22
+Successes: 6
+Failures: 0
+Anomalies: 1
+Remaining food items: 0
+
+Plate 500 finished. Number of required inputs: 0 
+--------
+Successes so far: 2582
+Failures so far: 134
+Anomalies so far: 147
+
+---------------- Summary ----------------
+Epsilon: 0.05
+Learning Rate: 0.10
+Discount Factor: 0.90
+Character: hungry
+Max Iterations: 100.00
+Number of Plates: 500.00
+---
+Average iterations per episode: 18.16
+Highest number of iterations reached: 31
+Total Successes: 2582 (90.2%)
+Total Failures: 134 (4.7%)
+Total Anomalies: 147 (5.1%)
+Total Inputs Required: 178
+
+Q-Values:
+                Input       Stay       Quit
+       eat  -0.161529   8.011826  -0.986697
+   anomaly   0.095605   4.549673  -0.190000
+   success  -0.216890   3.534248  -0.992930
+      fail  -0.104793   4.452792  -0.271000
+      food  -0.340765   6.176789  -0.990302
+    nofood   0.271000  -0.271000  -1.000000
+       end   0.000000   0.000000   0.000000
+
+Optimal Policy: 
+     State          Action
+-------------------------------
+       eat -->       stay
+   anomaly -->       stay
+   success -->       stay
+      fail -->       stay
+      food -->       stay
+    nofood -->      input
+       end -->       none

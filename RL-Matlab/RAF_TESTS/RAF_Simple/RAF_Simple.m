@@ -1,0 +1,289 @@
+%% Housekeeping
+clear; 
+clc; 
+close all
+
+%% Initialize
+% Setup diary file
+setup_diary('RAF_Simple.txt')
+
+% Define States and Actions
+states = ["eat", "anomaly", "success", "fail", "food", "nofood", "end"];
+actions = ["input", "stay", "quit"];
+
+% Initialize Q-Values
+qValue = zeros(length(states), length(actions));
+
+% Define Parameters
+% Epsilon-Greedy parameter: Closer to 1 means more exploration
+epsilon = 0.1;
+
+% Define Learning Rate: Closer to 1 means faster learning
+% Note: Good starting point is 1/sqrt(# of updates to (s,a))
+alpha = 0.1;
+
+% Define Discount Factor: Closer to 1 means future rewards are moreimportant
+% Note: must be less than 1 for cyclic MDPs
+gamma = 0.9;
+
+% Define Initial State
+state = "eat";
+
+% Initialize Metrics
+% Total number of successfully eaten food items
+total_successes = 0;
+% Total number of failed food items
+total_failures = 0;
+% Total number of anomalies
+total_anomalies = 0;
+% Total number of e-stops
+total_estops = 0;
+% Total number of iterations
+sumIterations = 0;
+% Highest iteration reached
+highestIteration = 0;
+
+% Define number of food items per plate
+food_per_plate = 6; 
+
+% Define max steps to take per episode
+maxIterations = 100; 
+
+% Define number of episodes (plates)
+numEpisodes = 200;
+
+% Enable (1) or disable (0) simulation
+simulate = 1;
+
+% if simulation is enabled, define the actor type
+% Options: "hungry", "full", "undecided"
+actor = "hungry";
+
+%% Epsilon-Greedy Q-Learning
+inCount_array = zeros(numEpisodes,1);
+qValue_array = zeros(length(states), length(actions), numEpisodes);
+for episode = 1:1:numEpisodes
+    fprintf('\n----- Plate %i -----\n', episode)
+    inCount = 0;                        % Number of inputs required per plate
+    food_num = food_per_plate;          % Food items per plate
+    successes = 0;                      % Successes per plate
+    failures = 0;                       % Failures per plate
+    anomalies = 0;                      % Anomalies per plate
+    for iteration = 1:1:maxIterations
+        initialState = state;
+        state_idx = find(strcmp(states, initialState));
+        
+        if initialState == "end"
+            % Print metrics and quit episode
+            print_metrics(total_successes, total_failures, total_anomalies, state, iteration, successes, failures, anomalies, food_num, episode, inCount)
+            break
+        end
+        
+        % 1) Pick an action
+        % Pick random number
+        e = rand(1);
+        if e <= epsilon
+            % pick random action from action list
+            idx = randperm(length(actions),1);
+            action = actions(idx);
+        else
+            % Follow the optimal policy
+            idx = find(squeeze(qValue(state_idx,:)) == max(squeeze(qValue(state_idx,:))));
+            if length(idx) > 1
+                pos = randi(length(idx));
+                idx = idx(pos);
+            end
+            action = actions(idx);
+        end
+        
+        % 2) Determine Next State
+        if action == "input"
+            inCount = inCount + 1;
+            if simulate == 1
+                action = simQuery(initialState, actor);
+            else
+                action = query(initialState, actions);
+            end
+        end
+        finalState = transition(initialState, action, food_num);
+        
+        % Housekeeping
+        switch finalState
+            case "success"
+                food_num = food_num - 1;
+                successes = successes + 1;
+                total_successes = total_successes + 1;
+            case "fail"
+                failures = failures + 1;
+                total_failures = total_failures + 1;
+            case "anomaly"
+                anomalies = anomalies + 1;
+                total_anomalies = total_anomalies + 1;
+        end
+
+        % 3) Receive Reward
+        r = reward(finalState);
+        
+        % 4) Update Q-Values
+        finalState_idx = find(strcmp(states, finalState));
+        action_idx = find(strcmp(actions, action));
+        sample = r + gamma*max(qValue(finalState_idx, :));
+        qValue(state_idx, action_idx) = (1-alpha)*qValue(state_idx, action_idx) + alpha*sample;
+        state = finalState;
+    end
+    
+    if iteration == maxIterations
+        warning('Max Iterations Reached on episode %i\n', episode)
+    end
+
+    sumIterations = sumIterations + iteration;
+    if iteration > highestIteration
+        highestIteration = iteration;
+    end
+    
+    state = 'eat';
+    inCount_array(episode) = inCount;
+    qValue_array(:,:,episode) = qValue;
+end
+
+avgIterations = sumIterations/numEpisodes;
+total = total_successes + total_failures + total_anomalies;
+fprintf('\n---------------- Summary ----------------\n')
+fprintf('Average iterations per episode: %2.2f\n', avgIterations)
+fprintf('Highest number of iterations reached: %i\n', highestIteration)
+fprintf('Total Successes: %i (%2.1f%%)\n', total_successes, (total_successes/total)*100)
+fprintf('Total Failures: %i (%2.1f%%)\n', total_failures, (total_failures/total)*100)
+fprintf('Total Anomalies: %i (%2.1f%%)\n', total_anomalies, (total_anomalies/total)*100)
+fprintf('Total Inputs Required: %i\n', sum(inCount_array))
+fprintf('\n')
+
+fprintf('Q-Values:\n')
+fprintf('%10s %10s %10s %10s\n', '', 'Input', 'Stay', 'Quit')
+for st = 1:1:length(states)
+    fprintf('%10s %10f %10f %10f\n', states(st), qValue(st, 1), qValue(st, 2), qValue(st, 3))
+end
+fprintf('\n')
+
+fprintf('Optimal Policy: \n')
+fprintf('%10s %15s\n', 'State', 'Action')
+fprintf('-------------------------------\n')
+for st = 1:1:length(states)
+    opt_action = actions(find(squeeze(qValue(st,:)) == max(squeeze(qValue(st,:)))));
+    if length(opt_action) > 1
+        opt_action = "none";
+    end
+    fprintf('%10s --> %10s\n', states(st), opt_action)
+end
+
+%% Summary
+figure
+plot(inCount_array, 'o-')
+xlabel('Plate Number')
+ylabel('Number of Inputs')
+
+savefig('RAF_RL_Inputs')
+
+figure
+subplot(6,3,1)
+plot(squeeze(qValue_array(1,1,:)))
+title('Eat/Input')
+ylabel('Q-Value')
+
+subplot(6,3,2)
+plot(squeeze(qValue_array(1,2,:)))
+title('Eat/Stay')
+
+subplot(6,3,3)
+plot(squeeze(qValue_array(1,3,:)))
+title('Eat/Quit')
+
+subplot(6,3,4)
+plot(squeeze(qValue_array(2,1,:)))
+title('Anomaly/Input')
+ylabel('Q-Value')
+
+subplot(6,3,5)
+plot(squeeze(qValue_array(2,2,:)))
+title('Anomaly/Stay')
+
+subplot(6,3,6)
+plot(squeeze(qValue_array(2,3,:)))
+title('Anomaly/Quit')
+
+subplot(6,3,7)
+plot(squeeze(qValue_array(3,1,:)))
+title('Success/Input')
+ylabel('Q-Value')
+
+subplot(6,3,8)
+plot(squeeze(qValue_array(3,2,:)))
+title('Success/Stay')
+
+subplot(6,3,9)
+plot(squeeze(qValue_array(3,3,:)))
+title('Success/Quit')
+
+subplot(6,3,10)
+plot(squeeze(qValue_array(4,1,:)))
+title('Fail/Input')
+ylabel('Q-Value')
+
+subplot(6,3,11)
+plot(squeeze(qValue_array(4,2,:)))
+title('Fail/Stay')
+
+subplot(6,3,12)
+plot(squeeze(qValue_array(4,3,:)))
+title('Fail/Quit')
+
+subplot(6,3,13)
+plot(squeeze(qValue_array(5,1,:)))
+title('Food/Input')
+ylabel('Q-Value')
+
+subplot(6,3,14)
+plot(squeeze(qValue_array(5,2,:)))
+title('Food/Stay')
+
+
+subplot(6,3,15)
+plot(squeeze(qValue_array(5,3,:)))
+title('Food/Quit')
+
+subplot(6,3,16)
+plot(squeeze(qValue_array(6,1,:)))
+title('No Food/Input')
+ylabel('Q-Value')
+
+subplot(6,3,17)
+plot(squeeze(qValue_array(6,2,:)))
+title('No Food/Stay')
+
+subplot(6,3,18)
+plot(squeeze(qValue_array(6,3,:)))
+title('No Food/Quit')
+
+savefig('RAF_RL_QValues')
+
+diary off
+
+%% Functions
+
+function setup_diary(dfile)
+    if exist(dfile, 'file') ; delete(dfile); end
+    diary(dfile)
+    diary on
+end
+
+function print_metrics(total_successes, total_failures, total_anomalies, state, iteration, successes, failures, anomalies, food_num, episode, inCount)
+    fprintf('Episode Done. Final State: %s, Iterations: %i\n', state, iteration)
+    fprintf('Successes: %i\n', successes)
+    fprintf('Failures: %i\n', failures)
+    fprintf('Anomalies: %i\n', anomalies)
+    fprintf('Remaining food items: %i\n', food_num)
+    fprintf('\nPlate %i finished. Number of required inputs: %i \n', episode, inCount);
+    fprintf('--------\n')
+    fprintf('Successes so far: %i\n', total_successes)
+    fprintf('Failures so far: %i\n', total_failures)
+    fprintf('Anomalies so far: %i\n', total_anomalies)
+end

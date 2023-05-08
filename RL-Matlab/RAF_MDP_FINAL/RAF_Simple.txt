@@ -1,0 +1,69 @@
+
+----- Plate 1 -----
+Current State: eat
+Enter action (stay or quit): stay
+Current State: success
+Enter action (stay or quit): stay
+Episode Done. Final State: end, Iterations: 4
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 1 finished. Number of required inputs: 2 
+--------
+Successes so far: 1
+Failures so far: 0
+Anomalies so far: 0
+
+----- Plate 2 -----
+Current State: food
+Enter action (stay or quit): quit
+Episode Done. Final State: end, Iterations: 4
+Successes: 0
+Failures: 1
+Anomalies: 0
+Remaining food items: 6
+
+Plate 2 finished. Number of required inputs: 1 
+--------
+Successes so far: 1
+Failures so far: 1
+Anomalies so far: 0
+
+----- Plate 3 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 0
+Failures: 0
+Anomalies: 1
+Remaining food items: 6
+
+Plate 3 finished. Number of required inputs: 0 
+--------
+Successes so far: 1
+Failures so far: 1
+Anomalies so far: 1
+
+----- Plate 4 -----
+Episode Done. Final State: end, Iterations: 3
+Successes: 1
+Failures: 0
+Anomalies: 0
+Remaining food items: 5
+
+Plate 4 finished. Number of required inputs: 0 
+--------
+Successes so far: 2
+Failures so far: 1
+Anomalies so far: 1
+
+----- Plate 5 -----
+Current State: food
+Enter action (stay or quit): {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('query', '/Users/JackSchultz/Desktop/Research/ODHE Project/Markov Desicion Process/RL-Matlab/RAF_MDP_FINAL/query.m', 3)" style="font-weight:bold">query</a> (<a href="matlab: opentoline('/Users/JackSchultz/Desktop/Research/ODHE Project/Markov Desicion Process/RL-Matlab/RAF_MDP_FINAL/query.m',3,0)">line 3</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('RAF_QLearning_Simulation', '/Users/JackSchultz/Desktop/Research/ODHE Project/Markov Desicion Process/RL-Matlab/RAF_MDP_FINAL/RAF_QLearning_Simulation.m', 151)" style="font-weight:bold">RAF_QLearning_Simulation</a> (<a href="matlab: opentoline('/Users/JackSchultz/Desktop/Research/ODHE Project/Markov Desicion Process/RL-Matlab/RAF_MDP_FINAL/RAF_QLearning_Simulation.m',151,0)">line 151</a>)
+                user_action = query(initialState, actions);
+} 
+clear
+clc
